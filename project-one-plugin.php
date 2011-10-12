@@ -15,7 +15,6 @@ add_action('admin_head', 'my_plugin_css');
 add_action('admin_head', 'my_plugin_action_javascript');
 add_action('admin_menu', 'my_plugin_menu');
 add_action('wp_ajax_my_action', 'my_plugin_action_callback');
-load_plugin_textdomain('your-unique-name', false, basename( dirname( __FILE__ ) ) . '/languages' );
 
 function cp1251_to_utf8 ($txt)  {
     $in_arr = array (
@@ -68,7 +67,9 @@ function cp1251_to_utf8 ($txt)  {
 }
 
 function my_plugin_menu() {
-	add_options_page('ProjectOne Options', 'ProjectOne', 'manage_options', 'project-one', 'my_plugin_options');
+//	add_options_page('ProjectOne Options', 'ProjectOne', 'manage_options', 'project-one', 'my_plugin_options');
+    add_menu_page('ProjectOne Plugin', 'ProjectOne', 'manage_options', 'project-one', 'my_plugin_options');
+//    add_submenu_page('project-one', 'ProjectOne Help', 'Help', 'manage_options', 'project-one-help', 'my_plugin_help');
 }
 
 function my_plugin_css() {
@@ -163,7 +164,6 @@ function my_plugin_action_callback() {
                               'listData' => 'We`ve got some troubles');
     }
 
-//    echo print_r($jsonResponse, true);
     echo json_encode($jsonResponse);
 	die();
 }
@@ -195,4 +195,11 @@ function absinthe($listId, $offset) {
     return $result;
 }
 
+//function my_plugin_help() {
+//	if (!current_user_can('manage_options'))  {
+//		wp_die( __('You do not have sufficient permissions to access this page.') );
+//	}
+//
+//    echo 'AAAAAAAAAAA!!!';
+//}
 ?>
