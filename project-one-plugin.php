@@ -11,6 +11,19 @@ License: GPL2
 
 /*  Copyright 2011  ohO_oho  (email: paul.bs@gmail.com) */
 
+//album-283_92418231#offset=40&part=1
+//"/album-283_92418231#offset=40&part=1"
+//"/al_photos.php#act=show&list=album-283_92418231&photo=-283_127988404"
+//"5389<!>photoview.css,photoview.js<!>0<!>4681<!>0<!>album-283_92418231<!><!int>334<!><!int>333<!><!json>[{"id":"-283_269408149","x_src":"http:\/\/cs4172.vkontakte.ru\/u249650\/92418231\/x_382b8465.jpg","y_src":"http:\/\/cs4172.vkontakte.ru\/u249650\/92418231\/y_f4598f85.jpg","z_src":"http:\/\/cs4172.vkontakte.ru\/u249650\/92418231\/z_eb850bf0.jpg","commcount":"0","commshown":0,"comments":"","date":"10 октября 2011","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"desc":"Peavey Nitro-1","hash":"c76b65e3db947467cd"},{"id":"-283_127988168","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_481d972d.jpg","commcount":"31","commshown":3,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_97503231\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id9716814\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9240.vkontakte.ru\/u9716814\/e_e3e745e6.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id9716814\" onclick=\"return nav.go(this, event)\" class=\"name\">Арсений Иосипов<\/a>\n    <div class=\"pv_commtext\">Второй по счету &quot;недорогой стратик&quot; просто невероятно возбудил.)<br>А вот от дельксовых как раз (можете пинать)не в особом восторге.<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">14 мар 2010 в 11:46<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_97503231', '38c364ab22503a2c5c')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_97503231\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_98151353\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/unit_731\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9503.vkontakte.ru\/u36475310\/e_3e78e0d3.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/unit_731\" onclick=\"return nav.go(this, event)\" class=\"name\">Паша Галкин<\/a>\n    <div class=\"pv_commtext\">Александр Александрович<br><br>объяснить не мог<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">13 мая 2010 в 18:00<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_98151353', '70685d897344d3a729')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_98151353\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_98394332\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id38179084\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10177.vkontakte.ru\/u38179084\/e_45a435ad.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id38179084\" onclick=\"return nav.go(this, event)\" class=\"name\">Саша Найдён<\/a>\n    <div class=\"pv_commtext\">борланд охуенен, всем слушать первый альбом бизкитов..., охуенен во многом....<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">5 июн 2010 в 2:28<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_98394332', '70b42eb4619ad37094')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_98394332\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"26 апреля 2009","tags":{"11700837":[30.28,2.29,60.83,99.58],"0":1},"tagged":{"17370852":"11700837"},"tagshtml":"<span id=\"pv_tag11700837\" onmouseover=\"photoview.showTag(11700837)\" onmouseout=\"photoview.hideTag()\"><span><a href=\"\/id17370852\" onclick=\"return nav.go(this, event)\">Ibanez Deluxe<\/a><\/span><\/span>","album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":2,"actions":{"spam":1,"comm":1,"save":1},"desc":"Ibanez Roadstar deluxe","hash":"4bf46025208fe5d73d"},{"id":"-283_127988195","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_544eeb44.jpg","commcount":"6","commshown":6,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_94531446\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/drygva\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs5963.vkontakte.ru\/u7760832\/e_8e53712a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/drygva\" onclick=\"return nav.go(this, event)\" class=\"name\">Алексей Стецюк<\/a>\n    <div class=\"pv_commtext\">бля прикольно)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">27 апр 2009 в 20:56<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_94531446', 'b0731a9532f74825db')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_94531446\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_94794041\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/saga86\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4539.vkontakte.ru\/u5771117\/e_39a45039.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/saga86\" onclick=\"return nav.go(this, event)\" class=\"name\">Алексей Гавриленко<\/a>\n    <div class=\"pv_commtext\">выглядит супер&#33; только блин, что то спама много стало в последнее время писаться...<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">1 июн 2009 в 21:16<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_94794041', '296c93649b5f5742b0')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_94794041\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_94945179\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id21730464\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/vkontakte.ru\/images\/deactivated_c.gif\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id21730464\" onclick=\"return nav.go(this, event)\" class=\"name\">Роман Рабуцький<\/a>\n    <div class=\"pv_commtext\">жир<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">21 июн 2009 в 16:49<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_94945179', '7cee06a7de3754b817')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_94945179\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_95927300\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/arnakjan\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/vkontakte.ru\/images\/question_c.gif\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/arnakjan\" onclick=\"return nav.go(this, event)\" class=\"name\">Арнак Енокян<\/a>\n    <div class=\"pv_commtext\">ооо шелби джи ти хочу такуюююю<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">23 окт 2009 в 19:43<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_95927300', '9c9c8eb36b309d3885')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_95927300\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_96606207\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id6407618\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4303.vkontakte.ru\/u6407618\/e_70e24cb2.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id6407618\" onclick=\"return nav.go(this, event)\" class=\"name\">Олег Сапожников<\/a>\n    <div class=\"pv_commtext\">правильная палка<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">28 дек 2009 в 19:00<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_96606207', 'c8a56414c13cc3466e')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_96606207\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_102467886\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id25074685\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9646.vkontakte.ru\/u25074685\/e_5c9ab16b.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id25074685\" onclick=\"return nav.go(this, event)\" class=\"name\">Александр Гришин<\/a>\n    <div class=\"pv_commtext\">Трататастер111<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">6 мая 2011 в 15:51<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_102467886', '496636348aa9dbed28')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_102467886\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"26 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"desc":"Fender GT","hash":"e3ca92bcbb13da425a"},{"id":"-283_127988404","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_f9f650f8.jpg","commcount":"23","commshown":3,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_98453401\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/maxscotch\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10547.vkontakte.ru\/u18429047\/e_7c7e00c7.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/maxscotch\" onclick=\"return nav.go(this, event)\" class=\"name\">Max Scotch<\/a>\n    <div class=\"pv_commtext\">для своей цены гитара просто шик. демку может позже кину)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">11 июн 2010 в 8:08<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_98453401', 'b5c23c07d65aa4d89b')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_98453401\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_98458046\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/alexsnake1\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4937.vkontakte.ru\/u17150925\/e_113b23dd.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/alexsnake1\" onclick=\"return nav.go(this, event)\" class=\"name\">Алексей Журавлёв<\/a>\n    <div class=\"pv_commtext\">Ждём демку)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">11 июн 2010 в 18:22<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_98458046', '11afaf11fcfe861951')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_98458046\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_99393944\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/rock.n.blues\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs5456.vkontakte.ru\/u9799067\/e_f9661dfd.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/rock.n.blues\" onclick=\"return nav.go(this, event)\" class=\"name\">Миша Тентлер<\/a>\n    <div class=\"pv_commtext\">Одна из самых нормальных расцветок телека.<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">12 сен 2010 в 22:14<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_99393944', '9b03f4c8acff02215d')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_99393944\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"26 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":1,"actions":{"spam":1,"comm":1,"save":1},"hash":"94c3c6af8efc367766"},{"id":"-283_127989602","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_464f633e.jpg","commcount":"4","commshown":4,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_95239801\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id5467782\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9257.vkontakte.ru\/u5467782\/e_2a162ab1.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id5467782\" onclick=\"return nav.go(this, event)\" class=\"name\">Danil Levin<\/a>\n    <div class=\"pv_commtext\">Эх, а вот эту гитару очень хотелось бы послушать, заинтересовла ;)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">3 авг 2009 в 15:06<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_95239801', '2060dbede7b1ab1105')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_95239801\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_103280644\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id16751830\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4735.vkontakte.ru\/u16751830\/e_3f79b874.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id16751830\" onclick=\"return nav.go(this, event)\" class=\"name\">Сергей Индеец<\/a>\n    <div class=\"pv_commtext\">звук у инструмента чумовой..<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 июл 2011 в 8:14<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_103280644', 'a8d1f4fad1175daaea')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_103280644\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_104055485\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/gromt\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9824.vkontakte.ru\/u5809256\/e_570c6098.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/gromt\" onclick=\"return nav.go(this, event)\" class=\"name\">Дмитрий Ермоленко<\/a>\n    <div class=\"pv_commtext\">есть у меня такая. рабочая лошадь.<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">13 сен 2011 в 19:08<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_104055485', 'e01887ec6f8f9caa8a')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_104055485\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_104077099\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id16751830\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4735.vkontakte.ru\/u16751830\/e_3f79b874.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id16751830\" onclick=\"return nav.go(this, event)\" class=\"name\">Сергей Индеец<\/a>\n    <div class=\"pv_commtext\">была.. ))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">15 сен 2011 в 16:44<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_104077099', '458d53751e7b1ded8d')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_104077099\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"26 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"hash":"3759aa209e467792d8"},{"id":"-283_128137689","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_b4741c94.jpg","commcount":"19","commshown":3,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_99225696\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/v.gusakov\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4448.vkontakte.ru\/u70476821\/e_41ec273b.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/v.gusakov\" onclick=\"return nav.go(this, event)\" class=\"name\">Vyacheslav Gusakov<\/a>\n    <div class=\"pv_commtext\">Евгений Кондратьев <br>ты тупарь убогий<br>у меня такая палка, это высшая гитара<br><\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">29 авг 2010 в 8:34<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_99225696', 'c054bc0d38b671d9a6')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_99225696\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_100766229\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/igorek182\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10121.vkontakte.ru\/u66705183\/e_1568b3f8.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/igorek182\" onclick=\"return nav.go(this, event)\" class=\"name\">Игорёк Делонг<\/a>\n    <div class=\"pv_commtext\">Иван ты говно, а гитара нет) Уверен ты даже не держал её в руках ни разу.<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">2 янв 2011 в 16:57<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_100766229', 'e7d0465d99fafed7b3')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_100766229\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_100767969\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/alexsnake1\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4937.vkontakte.ru\/u17150925\/e_113b23dd.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/alexsnake1\" onclick=\"return nav.go(this, event)\" class=\"name\">Алексей Журавлёв<\/a>\n    <div class=\"pv_commtext\">Хорошая гитарка) Но мне другие страты больше нравятся)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">2 янв 2011 в 18:47<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_100767969', 'eabf0a9e72514d042f')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_100767969\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"27 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"desc":"Fender - Tom Delonge (blink182)","hash":"4d1b4e11c1366a66a1"},{"id":"-283_128137691","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_f2ad101f.jpg","commcount":"17","commshown":3,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_96319845\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id249650\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4172.vkontakte.ru\/u249650\/e_ed427a27.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id249650\" onclick=\"return nav.go(this, event)\" class=\"name\">Александр Александрович<\/a>\n    <div class=\"pv_commtext\">тому что сам вовремя неуспел повыебывацца<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">30 ноя 2009 в 21:43<\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_96319845\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_96320081\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/dudefromalabama\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs965.vkontakte.ru\/u1723462\/e_e2b6fd39.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/dudefromalabama\" onclick=\"return nav.go(this, event)\" class=\"name\">Михаил Ногин<\/a>\n    <div class=\"pv_commtext\">если тебе это повод для зависти то мне тя жаль, мэн)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">30 ноя 2009 в 22:02<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_96320081', 'da6ad33f007866b320')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_96320081\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_96322796\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id249650\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4172.vkontakte.ru\/u249650\/e_ed427a27.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id249650\" onclick=\"return nav.go(this, event)\" class=\"name\">Александр Александрович<\/a>\n    <div class=\"pv_commtext\">ну да , спустя полгода кулаками не машуть )))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">1 дек 2009 в 12:13<\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_96322796\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"27 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"desc":"Fender custom shop","hash":"998b227f3353b9ecb6"},{"id":"-283_128137692","x_src":"http:\/\/cs1536.vkontakte.ru\/u249650\/92418231\/x_64bd77f5.jpg","commcount":"4","commshown":4,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_94527430\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id19098635\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4569.vkontakte.ru\/u19098635\/e_3d241b10.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id19098635\" onclick=\"return nav.go(this, event)\" class=\"name\">Юзик Факин<\/a>\n    <div class=\"pv_commtext\">ммм... charvel...<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">27 апр 2009 в 13:13<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_94527430', 'c212d725bd43cda150')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_94527430\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_94777400\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/beerkiller\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10953.vkontakte.ru\/u6673348\/e_e1d863de.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/beerkiller\" onclick=\"return nav.go(this, event)\" class=\"name\">Санёк Пикулин<\/a>\n    <div class=\"pv_commtext\">аля ванхален))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">31 мая 2009 в 1:15<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_94777400', '0b1126747f996fe13a')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_94777400\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_96173663\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/mightymorphin\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs5932.vkontakte.ru\/u38981429\/e_745f060c.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/mightymorphin\" onclick=\"return nav.go(this, event)\" class=\"name\">Роман Пискарёв<\/a>\n    <div class=\"pv_commtext\">Юзик X Факин, я бы сказал обконcharvel xD<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">16 ноя 2009 в 0:25<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_96173663', 'a10830178fa27fb11f')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_96173663\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_100047423\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/pashka.ocharovashk\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs5312.vkontakte.ru\/u3532059\/e_1791f98c.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/pashka.ocharovashk\" onclick=\"return nav.go(this, event)\" class=\"name\">Pashka Ocharovashka<\/a>\n    <div class=\"pv_commtext\">хочу<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">5 ноя 2010 в 20:34<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_100047423', '59d352665841f050b4')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_100047423\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"27 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/id249650\" onclick=\"return nav.go(this, event)\">Александр Александрович<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"desc":"charvel","hash":"6c78ebb582bf34ce1e"},{"id":"-283_128146646","x_src":"http:\/\/cs308.vkontakte.ru\/u15438300\/92418231\/x_0a117dbe.jpg","commcount":"13","commshown":3,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_97024155\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/the_real_thomson\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9564.vkontakte.ru\/u15438300\/e_99b8d8a0.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/the_real_thomson\" onclick=\"return nav.go(this, event)\" class=\"name\">Саша Тромса<\/a>\n    <div class=\"pv_commtext\">нет.<br><\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">1 фев 2010 в 13:29<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_97024155', '741c7dc1ee1fe5dbc8')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_97024155\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_98525188\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id17308398\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4121.vkontakte.ru\/u17308398\/e_50697ae8.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id17308398\" onclick=\"return nav.go(this, event)\" class=\"name\">Artem Nikolaev<\/a>\n    <div class=\"pv_commtext\">ого ого ого огого гого гогогогого взять &#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">18 июн 2010 в 14:55<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_98525188', '5fb3bc89e30d160ef3')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_98525188\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_100925910\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id12312987\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9810.vkontakte.ru\/u12312987\/e_b25e14ed.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id12312987\" onclick=\"return nav.go(this, event)\" class=\"name\">Ma Rk<\/a>\n    <div class=\"pv_commtext\">эскваейр кажется но хамб вместо сингла<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">13 янв 2011 в 10:46<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_100925910', 'fc69ddb2debd07019a')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_100925910\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"27 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/the_real_thomson\" onclick=\"return nav.go(this, event)\">Саша Тромса<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"hash":"e388b7f794fd0a09db"},{"id":"-283_128146647","x_src":"http:\/\/cs308.vkontakte.ru\/u15438300\/92418231\/x_e4e3a856.jpg","commcount":"14","commshown":3,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment-283_97337822\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/plion\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/vkontakte.ru\/images\/question_c.gif\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/plion\" onclick=\"return nav.go(this, event)\" class=\"name\">Руха Плиев<\/a>\n    <div class=\"pv_commtext\">электрогитара FENDER SQUIER AVRIL LAVIGNE TELECASTER<br><br> AVRIL LAVIGNE)) это ее гитара))<br><br><a href=\"\/away.php?to=http%3A%2F%2Fdynatone.ru%2Finfo999006080&h=e4c7b91c7fbfb39a0f\" target=\"_blank\" target=\"_blank\">http:\/\/dynatone.ru\/info999006080<\/a><\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">28 фев 2010 в 8:00<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_97337822', 'abae7b309441197437')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_97337822\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_97459584\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/the_real_thomson\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs9564.vkontakte.ru\/u15438300\/e_99b8d8a0.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/the_real_thomson\" onclick=\"return nav.go(this, event)\" class=\"name\">Саша Тромса<\/a>\n    <div class=\"pv_commtext\">кэп<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 мар 2010 в 16:21<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_97459584', '1e99727f0f43eccc2f')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_97459584\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment-283_101656665\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/dimakinrus\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs11228.vkontakte.ru\/u5911124\/e_43b2464f.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/dimakinrus\" onclick=\"return nav.go(this, event)\" class=\"name\">Дима Акинин<\/a>\n    <div class=\"pv_commtext\">хуита. и гитара, и она<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">8 мар 2011 в 10:04<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '-283_101656665', 'fe9de5280ec9daa10a')\">это спам<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress-283_101656665\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"27 апреля 2009","tags":[0],"tagged":[],"album":"<a href=\"album-283_92418231\" onclick=\"return nav.go(this, event)\">гитары с одним датчиком<\/a>","author":"<a class=\"mem_link\" href=\"\/the_real_thomson\" onclick=\"return nav.go(this, event)\">Саша Тромса<\/a>","likes":0,"actions":{"spam":1,"comm":1,"save":1},"hash":"a362d5c5ffea05195a"}]<!><!json>{"commlimit":2048,"lang":{"reply_to_post":"Комментировать...","wall_more_replies":["","еще %s комментарий","еще %s комментария","еще %s комментариев"],"wall_all_replies":"все комментарии","wall_M_replies_of_N":["","%s комментарий из {link}{all}{\/link}","%s последних комментария из {link}{all}{\/link}","%s последних комментариев из {link}{all}{\/link}"],"photos_X_comms":["","%s комментарий","%s комментария","%s комментариев"],"photos_onthisphoto":"На этой фотографии","photos_yourcomment":"Ваш комментарий","photos_delete_tag":"Удалить отметку","photos_tagperson":"Отметить человека","photos_select_tag_area":"Выделите область, где изображен человек, и он будет подписан на фотографии.","photos_typename":"Введите имя","photos_tags_me":"Я","photos_confirm_tag":"Подтвердить","photos_load_to_profile":"Поместить на мою страницу","photos_in_closed_album":"Эта фотография находится в закрытом альбоме.","photos_edit":"Редактировать","photos_rotate":"Повернуть:","photos_album_name":"Альбом:","photos_author":"Отправитель:","photos_added":"Добавлена","photos_i_like":"Мне нравится","photos_download_hq":"Загрузить оригинал на диск","photos_larger":"Увеличить фотографию","photos_smaller":"Уменьшить фотографию","photos_photo_num_of_N":"Фотография %s из %s","photos_view_one_photo":"Просмотр фотографии","photos_show_prev_comments":["","Показать предыдущий %s комментарий","Показать предыдущие %s комментария","Показать предыдущие %s комментариев"],"photos_edit_desc":"Редактировать описание","photos_edit_desc_intro":"Введите описание","photos_share_from_view":"Поделиться","photos_send_to_fr":"Отправить другу","photos_save_to_alb":"Сохранить к себе в альбом"},"big":"","dark":1,"maxtags":35,"hash":"9ba542bc1f194a6250"}"
+//
+//
+//        q: Object
+//al: 1
+//offset: 40
+//part: 1
+
+
+
 add_action('admin_head', 'my_plugin_css');
 add_action('admin_head', 'my_plugin_action_javascript');
 add_action('admin_menu', 'my_plugin_menu');
@@ -75,8 +88,17 @@ function my_plugin_menu() {
 function my_plugin_css() {
 ?>
     <style type="text/css">
+        #ajax-container {
+            margin-top: 10px;
+        }
         #listIdForm label {
             padding-right: 10px;
+        }
+        .ajax-loading-gif {
+            width: 16px;
+            height: 23px;
+            background: white url(images/loading.gif) no-repeat center;
+            display: none;
         }
     </style>
 <?php
@@ -92,23 +114,27 @@ function my_plugin_action_javascript() {
             $("#listIdForm").submit(function() {
                 data.listId = $("#listId").val();
                 data.offset = $("#offset").val();
+                $("#listIdFormLoader").fadeIn();
                 $("#go-btn").val('Пошло-поехало! Ждём...');
                 jQuery.post(ajaxurl, data, function(json) {
                     try{
                         var response = jQuery.parseJSON(json);
                     } catch(e) {
                         $("#go-btn").val('JSON не парсится :(');
+                        $("#listIdFormLoader").fadeOut();
                         alert('Parsing error: ' + e.name)
                         alert(json);
                     }
 
                     if (response['listId'] == 0) {
                         $("#go-btn").val('Хм, сам траблез :/');
+                        $("#listIdFormLoader").fadeOut();
                         $("#ajax-container").empty();
                         $("#ajax-container").html('<pre style="color: #ff6347;">' + response['listData'] + '</pre>');
                     } else {
                         var listData = jQuery.parseJSON(response['listData']);
                         $("#go-btn").val('Ура! Пришло!');
+                        $("#listIdFormLoader").fadeOut();
                         $("#listSize").html(response['listSize']);
                         $("#ajax-container").empty();
                         $("#ajax-container").append('<table class="widefat"></table>');
@@ -133,7 +159,7 @@ function my_plugin_options() {
 	}
 	echo '<div class="wrap">';
 	echo '<p style="float: right;">Ещё чуть-чуть и прямо в рай, и жизнь удалась.</p>';
-	echo '<p>';
+	echo '<div>';
 ?>
         <form id="listIdForm">
             <ul>
@@ -141,521 +167,12 @@ function my_plugin_options() {
                 <input id="listId" size="30" name="listId" value="album-2281699_140017490" /></li>
                 <li><label for="offset">Смещение: </label>
                 <input id="offset" name="offset" value="0" /> (всего <span id="listSize">хз</span> фото)</li>
-                <li><input type="submit" value="Го!" id="go-btn" class="button-secondary" style="width: 150px;" /></li>
+                <li><div><input type="submit" value="Го!" id="go-btn" class="button-secondary" style="float: left; width: 150px;" />
+                <div class="ajax-loading-gif" id="listIdFormLoader" style="float: left; padding-left: 3px"></div></div></li>
             </ul>
         </form>
-
-    <a href="/photo-283_264913672" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_264913672', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs5284.vkontakte.ru/u73680281/97127417/m_e5d61e73.jpg">
-</a>
-
-    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script type="text/javascript" src="/al_loader.php?act=nav&amp;v=5362"></script>
-
-<link rel="shortcut icon" href="/images/faviconnew.ico">
-
-<meta http-equiv="content-type" content="text/html; charset=windows-1251">
-<meta name="description" content=" ">
-
-<title>Гитаристы в окружении своих палок | 65 фотографий</title>
-
-<noscript>&lt;meta http-equiv="refresh" content="0; URL=/badbrowser.php"&gt;</noscript>
-
-<link rel="stylesheet" type="text/css" href="/css/al/common.css?194">
-<!--[if lte IE 6]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(/css/al/ie6.css?19); /* ]]> */</style><![endif]-->
-<!--[if IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(/css/al/ie7.css?13); /* ]]> */</style><![endif]-->
-
-<script type="text/javascript">
-var vk = {
-  ad: 1,
-  adupd: 120000, // 2 min
-  al: parseInt('3') || 4,
-  id: 3454157,
-  intnat: '' ? true : false,
-  host: 'vkontakte.ru',
-  lang: 0,
-  rtl: parseInt('') || 0,
-  version: 5362,
-  zero: false,
-  contlen: 20642,
-  loginscheme: 'https',
-  ip_h: 'c63b5ae4194d5bda74',
-  navPrefix: '/'
-}
-
-window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
-var _ua = navigator.userAgent.toLowerCase();
-if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
-var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '';
-if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
-  if (vk.al != 3 || vk.navPrefix != '!') {
-    location.replace(location.protocol + '//' + location.host + '/' + ___htest.replace(/^(\/|!)/, ''));
-  }
-}
-
-var StaticFiles = {
-  'common.js' : {v: 544},
-  'common.css': {v: 194},
-  'ie6.css'   : {v: 19},
-  'ie7.css'   : {v: 13}
-  ,'lang0_0.js':{v:4671},'photos.js':{v:41},'photos.css':{v:37},'upload.js':{v:30},'sorter.js':{v:15},'photos_add.js':{v:10},'photos_add.css':{v:9},'ui_controls.js':{v:104},'ui_controls.css':{v:24},'privacy.js':{v:48},'privacy.css':{v:28},'notifier.js':{v:104},'notifier.css':{v:34}
-}
-
-</script>
-<link type="text/css" rel="stylesheet" href="/css/al/photos.css?37"><link type="text/css" rel="stylesheet" href="/css/al/photos_add.css?9"><link type="text/css" rel="stylesheet" href="/css/ui_controls.css?24"><link type="text/css" rel="stylesheet" href="/css/al/privacy.css?28"><link type="text/css" rel="stylesheet" href="/css/al/notifier.css?34"><script type="text/javascript" src="/js/al/common.js?544"></script><script type="text/javascript" src="/js/lang0_0.js?4671"></script><script type="text/javascript" src="/js/al/photos.js?41"></script><script type="text/javascript" src="/js/al/upload.js?30"></script><script type="text/javascript" src="/js/al/sorter.js?15"></script><script type="text/javascript" src="/js/al/photos_add.js?10"></script><script type="text/javascript" src="/js/lib/ui_controls.js?104"></script><script type="text/javascript" src="/js/al/privacy.js?48"></script><script type="text/javascript" src="/js/al/notifier.js?104"></script>
-
-<link type="text/css" rel="stylesheet" href="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/style.css"><script type="text/javascript" charset="utf-8" src="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/page_context.js"></script><meta name="chromesniffer" id="chromesniffer_meta" content=""><script type="text/javascript" src="chrome-extension://homgcnaoacgigpkkljjjekpignblkeae/detector.js"></script></head>
-
-<body onresize="onBodyResize()" class="is_rtl" screen_capture_injected="true">
-  <div id="system_msg" class="fixed"></div>
-  <div id="utils"><div id="common_css"></div><div id="photos_css"></div><div id="photos_add_css"></div><div id="ui_controls_css"></div><div id="privacy_css"></div><div id="notifier_css"></div><div id="queue_transport_wrap"><iframe id="queue_storage_frame" name="queue_storage_frame" src="/notifier.php?act=storage_frame&amp;2#queue_connection_events_queue3454157"></iframe></div></div>
-
-  <div id="layer_bg" class="fixed" style="height: 162px; "></div><div id="layer_wrap" class="scroll_fix_wrap fixed" style="width: 1280px; height: 162px; "><div id="layer" style="width: 1262px; "></div></div>
-  <div id="box_layer_bg" class="fixed" style="height: 162px; "></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed" style="width: 1280px; height: 162px; "><div id="box_layer" style="width: 1262px; "><div id="box_loader"><div class="loader"></div><div class="back"></div></div></div></div>
-
-  <div id="stl_left" class="fixed" style="left: 0px; width: 235px; height: 162px; cursor: pointer; "><nobr id="stl_text" style="opacity: 1; ">Наверх</nobr></div><div id="stl_side" class="fixed" style="left: 235px; width: 140px; top: 0px; height: 162px; cursor: pointer; "></div>
-
-  <script type="text/javascript">domStarted();</script>
-
-  <div id="notifiers_wrap" class="fixed"></div><div id="rb_box_fc_clist" class="rb_box_wrap fixed rb_inactive" style="top: 55.733944954176px; left: 14.6206589491971px; "><div id="fc_clist" style="width: 220px; "><div class="fc_clist_inner"><div class="fc_tab_head"><a class="fc_tab_close_wrap fl_r"><div class="fc_tab_close"></div></a><div class="fc_tab_title noselect">58 друзей онлайн</div></div><div class="fc_clist_filter"><div class="input_back_wrap no_select"><div class="input_back" style="margin-top: 1px; padding-top: 0px; margin-bottom: 1px; padding-bottom: 0px; margin-left: 1px; padding-left: 0px; margin-right: 1px; padding-right: 0px; "><div class="input_back_content">Начните вводить имя..</div></div>  </div><input class="text" id="fc_clist_filter" placeholder=""></div><div class="fc_contacts_wrap"><div class="fc_scrollbar_cont" style="height: 0px; right: 10px; "><div class="fc_scrollbar_inner" style="height: 40px; margin-top: 0px; "></div></div><div id="fc_contacts" class="fc_contacts" style="height: 300px; overflow-x: hidden; overflow-y: hidden; "></div></div></div></div></div><div class="scroll_fix_wrap" id="page_wrap"><div id="top_info_wrap"></div>
-<div><div class="scroll_fix" style="width: 1262px; ">
-  <div id="page_layout" style="width: 791px; ">
-    <div id="page_header" class="p_head p_head_l0">
-      <div class="back"></div>
-      <div class="left"></div>
-      <div class="right"></div>
-      <div class="content">
-
-<div id="top_nav" class="head_nav">
-  <form method="POST" class="upload_frame" id="logout_form" action="https://login.vk.com/" target="logout_frame">
-    <input type="hidden" name="act" value="logout">
-    <input type="hidden" name="al_frame" value="1">
-    <input type="hidden" name="from_host" value="vkontakte.ru">
-    <input type="hidden" name="hash" value="c9175e248881e54ddf">
-  </form>
-  <iframe class="upload_frame" id="logout_frame" name="logout_frame"></iframe>
-  <a id="top_home_link" class="top_home_link fl_l" href="/" onclick="return nav.go(this, event)" style="display: none"></a>
-  <table cellspacing="0" cellpadding="0" id="top_links" style="">
-    <tbody><tr>
-      <td class="top_home_link_td">
-        <a class="top_home_link" href="/" onclick="return nav.go(this, event)"></a>
-      </td>
-      <td class="top_back_link_td">
-        <a class="top_nav_link fl_l" href="/club283" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { hide(this); return false; }" style="display: block; ">Гитаромания</a>
-      </td><td><nobr><a class="top_nav_link" id="top_fc_link" href="/im">58 друзей онлайн</a></nobr></td>
-
-      <td><nobr>
-        <a class="top_nav_link" id="top_search" href="/search" onclick="return nav.go(this, event, {search: true, noframe: true});" onmouseover="gSearch.preload();">поиск</a>
-      </nobr></td>
-      <td><nobr>
-        <a class="top_nav_link" id="top_invite_link" href="/invite" onclick="return nav.go(this, event);">пригласить</a>
-      </nobr></td>
-      <td><nobr>
-        <a class=" top_nav_link" id="logout_link" href="https://login.vk.com/?act=logout&amp;hash=c9175e248881e54ddf&amp;from_host=vkontakte.ru" onclick="if (!checkEvent(event)) { ge('logout_form').submit(); return false; }">выйти</a>
-      </nobr></td>
-    </tr>
-  </tbody></table>
-<span style="display: none" id="top_new_msg"></span>
-</div>
-      </div>
-    </div>
-
-    <div id="side_bar" class="fl_l" style="">
-      <ol>
-  <li id="myprofile" class="clear_fix"><a href="/edit" onclick="return nav.go(this, event);" class="edit fl_r">ред.</a> <a href="/id3454157" onclick="return nav.go(this, event, {noback: true})" class="hasedit fl_l">Моя Страница</a> </li><li id="l_fr"><a href="/friends" onclick="return nav.go(this, event, {noback: true});">Мои Друзья <span></span></a></li><li id="l_ph"><a href="/albums3454157?act=added" onclick="return nav.go(this, event, {noback: true});">Мои Фотографии <span>(<b>1</b>)</span></a></li><li id="l_vid"><a href="/video" onclick="return nav.go(this, event, {noback: true});">Мои Видеозаписи <span></span></a></li><li><a href="/audio" onclick="return nav.go(this, event, {noback: true});">Мои Аудиозаписи <span></span></a></li><li id="l_msg"><a href="/im" onclick="return nav.go(this, event, {noback: true});">Мои Сообщения <span></span></a></li><li id="l_nts"><a href="/notes" onclick="return nav.go(this, event, {noback: true});">Мои Заметки <span></span></a></li><li id="l_gr"><a href="/groups" onclick="return nav.go(this, event, {noback: true});">Мои Группы <span></span></a></li><li id="l_ev"><a href="/events" onclick="return nav.go(this, event, {noback: true});">Мои Встречи <span></span></a></li><li id="l_nws"><a href="/feed" onclick="return nav.go(this, event, {noback: true});">Мои Новости <span></span></a></li><li><a href="/fave" onclick="return nav.go(this, event, {noback: true});">Мои Закладки <span></span></a></li><li id="l_set"><a href="/settings" onclick="return nav.go(this, event, {noback: true});">Мои Настройки <span></span></a></li><div class="more_div"></div><li id="l_ap"><a href="/apps" onclick="return nav.go(this, event, {noback: true});">Приложения <span></span></a></li><li><a href="/docs" onclick="return nav.go(this, event, {noback: true});">Документы <span></span></a></li><li><a href="/market.php?act=list">Объявления <span></span></a></li><li id="l_ads" style="display: none"><a>Реклама <span></span></a></li><div class="more_div"></div><li id="l_app545941"><a href="/app545941_3454157?ref=1" onclick="return nav.go(this, event, {noback: true});">Музыкальный Плеер <span></span></a></li>
-</ol>
-<div id="left_blocks"></div><div id="left_ads"><div id="ad_hide_mask_ad_0" class="ad_hide_mask_new" style="display: none; "><div class="ad_info_new">Данное объявление больше не будет Вам показываться.</div></div>
-<a href="/away.php?to=QxscBkBxC1VwdAlWXXFWBhFBXUBJdgpDTgUxQ0hVb1VCfAAnX2ZtBjspCyAiCw0LXy5XRXJfThVFE0FXAidjNFwaA10OG2kQC2RucyoGVSsJagsaCgVWV2o8WEoeFl53VxVnJQAiKmMxeGMTPAdhAQV1YQsPDnpJAxcMVV8hVToYMF4dMA4/Ok0ECHsAegI3OAJdfj4UC094EgoJJiYjdglUUyseM2l/NAYIQ0wHHXE6Knt3MW1rZjEXdBd3MWouJy8pVRQPCDpBDH5QAgkWHgc-" class="ad_box_new" style="" id="ad_box_ad_0" onmouseover="leftBlockOver('_ad_0')" onmouseout="leftBlockOut('_ad_0')" target="_blank">
-<div id="left_hide_ad_0" class="left_hide_new" onmouseover="leftBlockOver(this)" onmouseout="leftBlockOut(this)" onclick="cancelEvent(event); return leftAdBlockHide('_ad_0', '/away.php?to=QRscBkBxC1VwdAlWXXFWBhFBCBFFdQccT1ZiFRkObAEUKQkiX2ZtBjspCyAiCw0LXy5XRXJfThVFE0FXAidjNFwaA10OG2kQC2RucyoGVSsJagsaCgVWV2o8WEoeFl53VxVnJQAiKmMxeGMTPAdhAQV1YQsPDnpJAxcMVV8hVToYMF4dMA4/Ok0ECHsAegI3OAJdfj4UC094EgoJJiYjdglUUyseM2l/NAYIQ0wHHXE6Knt3MW1rZjEXdBd3MWouJy8pVRQPCDpBDH5QAgkWHgc-');"></div>
-<div id="ad_title" class="ad_title_new">Лучшая стратегия 2011!</div>
-<div class="ad_domain_new">Приложение</div>
-<span>
-  <div id="pr_image" style="position: relative;">
-    <img src="http://cs10271.vkontakte.ru/u42137217/75628422/s_5f56606f59x:001.jpg" style="">
-    <div id="ads_play_btn" style="display: none;"></div>
-  </div>
-</span>
-<div id="ad_desc" class="ad_desc_new" style="">-" Чуть школу не проспал, играл с друзьями всю ночь!"</div>
-</a>
-<div id="ad_hide_mask_ad_1" class="ad_hide_mask_new" style="display: none; "><div class="ad_info_new">Данное объявление больше не будет Вам показываться.</div><div class="ad_complain_new">
-  <span class="ad_complain_info_new">Если Вы считаете содержание данного объявления оскорбительным,</span>
-  <span class="ad_complain_link_new" onclick="reportAd(1476553, this); return false;">сообщите нам.</span>
-</div></div>
-<a href="/away.php?to=QxscBkBxC1VwdAlXXnRTBhVBBkJAdlYdSlU2Q0hebVJCKFAlX1JgZzFxUAYnElpRJxJSR1YJCQBGC0FBLVU0KUklb3wVIAArAG5KVBobCTYaLlkTOG0wAmEDS0ccMXR8MSsTAB80FkcNIgI7AkJWZhs5fQA6LkIsLQteYGVUbgVJDkRHKxJnE0RUPEMkYnckC0Z8cicjDAMibHQZXxAgemI8URwWFGoVOQ0eGFgqGHAVBmcKJ0BqRzsWSSYDMQwTLmgWZBY5ZxQELAJ9D1kHAgc-" class="ad_box_new" style="" id="ad_box_ad_1" onmouseover="leftBlockOver('_ad_1')" onmouseout="leftBlockOut('_ad_1')" target="_blank">
-<div id="left_hide_ad_1" class="left_hide_new" onmouseover="leftBlockOver(this)" onmouseout="leftBlockOut(this)" onclick="cancelEvent(event); return leftAdBlockHide('_ad_1', '/away.php?to=QRscBkBxC1VwdAlXXnRTBhVBC0dCIlJDS1lkQRINPlJAfANyX1JgZzFxUAYnElpRJxJSR1YJCQBGC0FBLVU0KUklb3wVIAArAG5KVBobCTYaLlkTOG0wAmEDS0ccMXR8MSsTAB80FkcNIgI7AkJWZhs5fQA6LkIsLQteYGVUbgVJDkRHKxJnE0RUPEMkYnckC0Z8cicjDAMibHQZXxAgemI8URwWFGoVOQ0eGFgqGHAVBmcKJ0BqRzsWSSYDMQwTLmgWZBY5ZxQELAJ9D1kHAgc-');"></div>
-<div id="ad_title" class="ad_title_new">Коллекционная модель</div>
-<div class="ad_domain_new">rozetka.ua</div>
-<span>
-  <div id="pr_image" style="position: relative;">
-    <img src="http://cs9649.vkontakte.ru/u137834942/75628422/s_e5c1093fddx:001.jpg" style="">
-    <div id="ads_play_btn" style="display: none;"></div>
-  </div>
-</span>
-<div id="ad_desc" class="ad_desc_new" style="">Точная копия автомобиля. Цена: 113 грн.</div>
-</a>
-<div class="ad_help_link" id="ad_help_link">
-  <a href="/ads.php?section=target">Что это?</a>
-</div></div>
-    </div>
-
-    <div id="page_body" class="fl_r" style="width: 631px; ">
-      <div id="header_wrap2">
-        <div id="header_wrap1">
-          <div id="header" style="display: none">
-            <h1 id="title"></h1>
-          </div>
-        </div>
-      </div>
-      <div id="wrap_between"></div>
-      <div id="wrap3"><div id="wrap2">
-  <div id="wrap1">
-    <div id="content"><div class="t_bar clear_fix">
-  <ul class="t0"><li class="">
-  <a href="/albums-283" onclick="return checkEvent(event);" onmousedown="if (nav.go(this, event) === false) (window.PhotosAdd || window.photos || window.friendsphotos).activeTab(this);">
-    <b class="tl1"><b></b></b>
-    <b class="tl2"></b>
-    <b class="tab_word"><nobr>Альбомы группы</nobr></b>
-  </a>
-</li><li class="active_link">
-  <a href="/album-283_97127417" onclick="return checkEvent(event);" onmousedown="if (nav.go(this, event) === false) (window.PhotosAdd || window.photos || window.friendsphotos).activeTab(this);">
-    <b class="tl1"><b></b></b>
-    <b class="tl2"></b>
-    <b class="tab_word"><nobr>Гитаристы в окружении своих палок</nobr></b>
-  </a>
-</li></ul>
-</div><div class="photos_album_page">
-  <div class="summary_wrap">
-    <div class="summary"><a class="fl_r sort_rev_icon" onmouseover="showTooltip(this, {text: 'Показать в обратном порядке'})" href="/album-283_97127417?rev=1" onclick="return nav.go(this, event)"></a>65 фотографий<span class="divide">|</span><span><a href="/album-283_97127417?act=edit" onclick="return nav.go(this, event)">Редактировать фотографии</a></span><span class="divide">|</span><span><a href="/album-283_97127417?act=comments" onclick="return nav.go(this, event)">Комментарии к альбому</a></span><span class="divide">|</span><span><a href="/club283" onclick="return nav.go(this, event, {back: true})">Вернуться к группе</a></span></div>
-  </div><div id="photos_upload_area_wrap" style="position: relative;">
-<a id="photos_upload_area" title="Вы можете перетащить файлы прямо на эту страницу." href="/album-283_97127417?act=add" onclick="return photos.upload(this, event);">
-  <div class="photos_upload_area_upload">
-    <span class="photos_upload_area_img" src="/images/icons/photos_add.png">
-      Добавить новые фотографии
-    </span>
-  </div>
-  <div class="photos_upload_area_drop">
-    Отпустите, чтобы начать загрузку.
-  </div>
-</a>
-<input id="photos_upload_input" class="file" type="file" size="28" onchange="photos.onUploadSelect(this.files);" multiple="true" name="photo" style="visibility: hidden; position: absolute;">
-</div>
-  <div id="photos_container" class="clear_fix"><div class="photo_row" id="photo_row-283_140635061"><a href="/photo-283_140635061" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140635061', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_54270166.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140635062"><a href="/photo-283_140635062" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140635062', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_1c89b8dc.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140635147"><a href="/photo-283_140635147" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140635147', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_c45c1a9b.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140635148"><a href="/photo-283_140635148" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140635148', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_2de34dbe.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140635149"><a href="/photo-283_140635149" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140635149', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_99e33086.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140635381"><a href="/photo-283_140635381" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140635381', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_2d9d9370.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140818028"><a href="/photo-283_140818028" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140818028', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_e243f1b3.jpg">
-</a></div><div class="photo_row" id="photo_row-283_140818029"><a href="/photo-283_140818029" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_140818029', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs1617.vkontakte.ru/u249650/97127417/m_ac548330.jpg">
-</a></div><div class="photo_row" id="photo_row-283_143104498"><a href="/photo-283_143104498" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_143104498', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4172.vkontakte.ru/u19590981/97127417/m_839478f3.jpg">
-</a></div><div class="photo_row" id="photo_row-283_143331677"><a href="/photo-283_143331677" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_143331677', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4156.vkontakte.ru/u10185718/97127417/m_f7ae6082.jpg">
-</a></div><div class="photo_row" id="photo_row-283_144698041"><a href="/photo-283_144698041" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_144698041', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4300.vkontakte.ru/u4536161/97127417/m_ade11fad.jpg">
-</a></div><div class="photo_row" id="photo_row-283_144698403"><a href="/photo-283_144698403" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_144698403', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4300.vkontakte.ru/u4536161/97127417/m_029be410.jpg">
-</a></div><div class="photo_row" id="photo_row-283_144700924"><a href="/photo-283_144700924" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_144700924', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4300.vkontakte.ru/u4536161/97127417/m_c332f79e.jpg">
-</a></div><div class="photo_row" id="photo_row-283_144702064"><a href="/photo-283_144702064" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_144702064', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4300.vkontakte.ru/u4536161/97127417/m_36bd5593.jpg">
-</a></div><div class="photo_row" id="photo_row-283_144702065"><a href="/photo-283_144702065" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_144702065', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4300.vkontakte.ru/u4536161/97127417/m_f2c8f57b.jpg">
-</a></div><div class="photo_row" id="photo_row-283_144867274"><a href="/photo-283_144867274" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_144867274', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4581.vkontakte.ru/u249650/97127417/m_fd6ec124.jpg">
-</a></div><div class="photo_row" id="photo_row-283_145383309"><a href="/photo-283_145383309" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_145383309', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs900.vkontakte.ru/u3009638/97127417/m_760a310e.jpg">
-</a></div><div class="photo_row" id="photo_row-283_145383310"><a href="/photo-283_145383310" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_145383310', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs900.vkontakte.ru/u3009638/97127417/m_42ff1caa.jpg">
-</a></div><div class="photo_row" id="photo_row-283_145409392"><a href="/photo-283_145409392" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_145409392', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs900.vkontakte.ru/u3009638/97127417/m_7822f6a7.jpg">
-</a></div><div class="photo_row" id="photo_row-283_145409393"><a href="/photo-283_145409393" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_145409393', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs900.vkontakte.ru/u3009638/97127417/m_7a53a9fd.jpg">
-</a></div><div class="photo_row" id="photo_row-283_147240311"><a href="/photo-283_147240311" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_147240311', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4549.vkontakte.ru/u249650/97127417/m_82497a04.jpg">
-</a></div><div class="photo_row" id="photo_row-283_147238779"><a href="/photo-283_147238779" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_147238779', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4549.vkontakte.ru/u249650/97127417/m_256c0f79.jpg">
-</a></div><div class="photo_row" id="photo_row-283_154674176"><a href="/photo-283_154674176" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_154674176', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs578.vkontakte.ru/u56175237/97127417/m_b57ac678.jpg">
-</a></div><div class="photo_row" id="photo_row-283_154852899"><a href="/photo-283_154852899" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_154852899', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4452.vkontakte.ru/u249650/97127417/m_66b0e0d5.jpg">
-</a></div><div class="photo_row" id="photo_row-283_156935577"><a href="/photo-283_156935577" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_156935577', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4570.vkontakte.ru/u36544620/97127417/m_94fb2cc3.jpg">
-</a></div><div class="photo_row" id="photo_row-283_157580440"><a href="/photo-283_157580440" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_157580440', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4453.vkontakte.ru/u249650/97127417/m_b743e34d.jpg">
-</a></div><div class="photo_row" id="photo_row-283_159093273"><a href="/photo-283_159093273" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_159093273', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4453.vkontakte.ru/u249650/97127417/m_e6ab64ac.jpg">
-</a></div><div class="photo_row" id="photo_row-283_159738009"><a href="/photo-283_159738009" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_159738009', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10080.vkontakte.ru/u64923417/97127417/m_41f765e7.jpg">
-</a></div><div class="photo_row" id="photo_row-283_159738010"><a href="/photo-283_159738010" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_159738010', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10080.vkontakte.ru/u64923417/97127417/m_4a330665.jpg">
-</a></div><div class="photo_row" id="photo_row-283_162374932"><a href="/photo-283_162374932" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_162374932', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4791.vkontakte.ru/u249650/97127417/m_64ec881d.jpg">
-</a></div><div class="photo_row" id="photo_row-283_162374933"><a href="/photo-283_162374933" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_162374933', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4791.vkontakte.ru/u249650/97127417/m_d8549a78.jpg">
-</a></div><div class="photo_row" id="photo_row-283_162976109"><a href="/photo-283_162976109" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_162976109', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4791.vkontakte.ru/u249650/97127417/m_6d1d5960.jpg">
-</a></div><div class="photo_row" id="photo_row-283_164062493"><a href="/photo-283_164062493" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_164062493', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs591.vkontakte.ru/u6895040/97127417/m_b6bbc460.jpg">
-</a></div><div class="photo_row" id="photo_row-283_164432287"><a href="/photo-283_164432287" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_164432287', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10365.vkontakte.ru/u249650/97127417/m_9aa98922.jpg">
-</a></div><div class="photo_row" id="photo_row-283_164997498"><a href="/photo-283_164997498" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_164997498', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10365.vkontakte.ru/u249650/97127417/m_06076dc8.jpg">
-</a></div><div class="photo_row" id="photo_row-283_165117303"><a href="/photo-283_165117303" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_165117303', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4301.vkontakte.ru/u249650/97127417/m_6a2b9487.jpg">
-</a></div><div class="photo_row" id="photo_row-283_165142880"><a href="/photo-283_165142880" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_165142880', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4301.vkontakte.ru/u249650/97127417/m_66e0ad7e.jpg">
-</a></div><div class="photo_row" id="photo_row-283_166170765"><a href="/photo-283_166170765" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166170765', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4301.vkontakte.ru/u249650/97127417/m_fc3960ac.jpg">
-</a></div><div class="photo_row" id="photo_row-283_166357740"><a href="/photo-283_166357740" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166357740', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4301.vkontakte.ru/u249650/97127417/m_8f94e31b.jpg">
-</a></div><div class="photo_row" id="photo_row-283_166438791"><a href="/photo-283_166438791" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166438791', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs244.vkontakte.ru/u74147884/97127417/m_5043c997.jpg">
-</a></div><div class="photo_row" id="photo_row-283_166550563"><a href="/photo-283_166550563" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166550563', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4556.vkontakte.ru/u249650/97127417/m_1a3e636d.jpg">
-</a></div><div class="photo_row" id="photo_row-283_166907103"><a href="/photo-283_166907103" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166907103', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4556.vkontakte.ru/u249650/97127417/m_58719d86.jpg">
-</a></div><div class="photo_row" id="photo_row-283_166977904"><a href="/photo-283_166977904" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166977904', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4556.vkontakte.ru/u249650/97127417/m_a48bb433.jpg">
-</a></div><div class="photo_row" id="photo_row-283_168050269"><a href="/photo-283_168050269" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_168050269', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4868.vkontakte.ru/u15172292/97127417/m_4139ae7c.jpg">
-</a></div><div class="photo_row" id="photo_row-283_168106069"><a href="/photo-283_168106069" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_168106069', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4868.vkontakte.ru/u15172292/97127417/m_a3589454.jpg">
-</a></div><div class="photo_row" id="photo_row-283_168588599"><a href="/photo-283_168588599" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_168588599', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10341.vkontakte.ru/u37436714/97127417/m_2e9e0db0.jpg">
-</a></div><div class="photo_row" id="photo_row-283_170030479"><a href="/photo-283_170030479" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_170030479', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs409.vkontakte.ru/u3009638/97127417/m_a2e38527.jpg">
-</a></div><div class="photo_row" id="photo_row-283_172081514"><a href="/photo-283_172081514" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_172081514', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4134.vkontakte.ru/u39705956/97127417/m_fe4c9f40.jpg">
-</a></div><div class="photo_row" id="photo_row-283_174079158"><a href="/photo-283_174079158" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_174079158', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs406.vkontakte.ru/u39705956/97127417/m_5d12ba47.jpg">
-</a></div><div class="photo_row" id="photo_row-283_176180225"><a href="/photo-283_176180225" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_176180225', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs9371.vkontakte.ru/u39705956/97127417/m_5d2fc3fb.jpg">
-</a></div><div class="photo_row" id="photo_row-283_185144201"><a href="/photo-283_185144201" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185144201', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10376.vkontakte.ru/u249650/97127417/m_88921024.jpg">
-</a></div><div class="photo_row" id="photo_row-283_185144893"><a href="/photo-283_185144893" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185144893', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs709.vkontakte.ru/u81705079/97127417/m_68cdeb32.jpg">
-</a></div><div class="photo_row" id="photo_row-283_185145358"><a href="/photo-283_185145358" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185145358', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs709.vkontakte.ru/u81705079/97127417/m_948c30d7.jpg">
-</a></div><div class="photo_row" id="photo_row-283_185145359"><a href="/photo-283_185145359" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185145359', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs709.vkontakte.ru/u81705079/97127417/m_69697159.jpg">
-</a></div><div class="photo_row" id="photo_row-283_190168265"><a href="/photo-283_190168265" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_190168265', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10644.vkontakte.ru/u249650/97127417/m_9375bb10.jpg">
-</a></div><div class="photo_row" id="photo_row-283_216405674"><a href="/photo-283_216405674" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_216405674', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs9979.vkontakte.ru/u12312987/97127417/m_fadc6cf6.jpg">
-</a></div><div class="photo_row" id="photo_row-283_225240448"><a href="/photo-283_225240448" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_225240448', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10854.vkontakte.ru/u249650/97127417/m_4dd609fd.jpg">
-</a></div><div class="photo_row" id="photo_row-283_229216297"><a href="/photo-283_229216297" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_229216297', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs11133.vkontakte.ru/u249650/97127417/m_c3bd40e9.jpg">
-</a></div><div class="photo_row" id="photo_row-283_229405295"><a href="/photo-283_229405295" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_229405295', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs11133.vkontakte.ru/u249650/97127417/m_5b770da9.jpg">
-</a></div><div class="photo_row" id="photo_row-283_259343789"><a href="/photo-283_259343789" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_259343789', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10958.vkontakte.ru/u249650/97127417/m_1801a8d8.jpg">
-</a></div><div class="photo_row" id="photo_row-283_264913672"><a href="/photo-283_264913672" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_264913672', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs5284.vkontakte.ru/u73680281/97127417/m_e5d61e73.jpg">
-</a></div><div class="photo_row" id="photo_row-283_264945526"><a href="/photo-283_264945526" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_264945526', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs9699.vkontakte.ru/u286956/97127417/m_888cb919.jpg">
-</a></div><div class="photo_row" id="photo_row-283_265740000"><a href="/photo-283_265740000" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_265740000', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs5826.vkontakte.ru/u249650/97127417/m_04daaf72.jpg">
-</a></div><div class="photo_row" id="photo_row-283_266126121"><a href="/photo-283_266126121" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_266126121', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs10979.vkontakte.ru/u249650/97127417/m_bc39077b.jpg">
-</a></div><div class="photo_row" id="photo_row-283_267976577"><a href="/photo-283_267976577" onclick="if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_267976577', 'album-283_97127417', {img: this, root: 1}, event)">
-  <img src="http://cs4172.vkontakte.ru/u249650/97127417/m_5f3b330a.jpg">
-</a></div></div>
-  <a id="photos_load_more" onclick="photos.load()" style="display: none; "><span style="display: inline; ">Показать больше фотографий</span>
-    <div id="photos_more_progress" class="progress" style="display: none; "></div>
-  </a>
-</div></div>
-  </div>
-</div></div>
-    </div>
-
-    <div id="footer_wrap" class="fl_r" style="width: 661px; ">
-      <div id="bottom_nav">
-  <a href="/help.php?page=about">о сайте</a>
-  <a href="/support">техподдержка</a>
-  <a href="/blog.php">блог</a>
-  <a href="/help.php?page=terms">правила</a>
-  <a href="/ads.php">реклама</a>
-  <a href="/developers.php">разработчикам</a>
-  <a href="/jobs.php">вакансии</a>
-</div>
-<div id="footer" class="clear">
-  <div class="copy_lang">ВКонтакте © 2006-2011 <a onclick="showBox('lang.php', {act: 'lang_dialog'}, {noreload: true})">Русский</a></div>
-  <div>
-    <small><a href="/durov" onclick="return nav.go(this, event)">Павел Дуров</a></small>
-
-  </div>
-</div>
-    </div>
-    <div class="clear"></div>
-  </div>
-</div></div></div>
-  <div class="progress" id="global_prg"></div>
-
-  <script type="text/javascript">
-    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
-      document.getElementsByTagName('body')[0].innerHTML = '';
-    } else {
-      domReady();
-      updateMoney(0);
-gSearch.init();
-if (window.qArr && qArr[5]) qArr[5] = [5, "по товарам", "", "goods", 0x00000100];if (!photos.checkHtml5Uploader() && browser.flash > 9 && !(browser.msie && !browser.msie8 && !browser.msie9)) {
-//if (browser.flash > 9) {
-  var area = ge('photos_upload_area'),
-      el = ce('div', {innerHTML: '<div id="lite_photo_uploader" style="position: absolute; height: 100%; width: 100%; cursor: pointer;"></div>'}).firstChild;
-  area.parentNode.insertBefore(el, area);
-  cur.initFlashLite = function() {
-    cur = extend(cur, {
-      uplCont: ge('photos_add_cont'),
-      uplBox: ge('photos_add_cont')
-    });
-
-    cur.uploaderLang = {"button_browse":"Выберите файл","photos_save_X_photos":["","Сохранить <b>%s<\/b> выбранную фотографию","Сохранить <b>%s<\/b> выбранных фотографий","Сохранить <b>%s<\/b> выбранных фотографий"],"photos_add_uploading":"Фотография загружается","photos_add_uploading_X":"Загружается 1 фотография из %s","photos_add_uploaded_X":["","Загружена %s фотография из {count}","Загружено %s фотографии из {count}","Загружено %s фотографий из {count}"],"photos_add_upload_finish":"Завершение загрузки..","photos_add_error":"Не удалось загрузить изображение","photos_add_saved":["","Фотография успешно загружена.","Фотографии успешно загружены.","Фотографии успешно загружены."]};
-    cur.flashLiteUrl = 'http://cs9278.vkontakte.ru/upload.php';
-    cur.flashLiteVars = {"oid":-283,"aid":97127417,"gid":283,"mid":3454157,"hash":"e78887ff801c33221afd9d43f7ba2bd6","rhash":"c4e039ba7cd1d35cfda08a0afde46f6e","act":"do_add"};
-    cur.flashLiteOptions = {
-      file_name: 'photo',
-
-      file_size_limit: 1024*1024*25, // 5Mb
-      file_types_description: 'Image files (*.jpg, *.png, *.gif)',
-      file_types: '*.jpg;*.JPG;*.png;*.PNG;*.gif;*.GIF;*.bmp;*.BMP',
-
-      lang: cur.uploaderLang,
-
-      onUploadStart: PhotosAdd.onUploadStart,
-      onUploadProgress: PhotosAdd.onUploadProgress,
-      onUploadComplete: PhotosAdd.onUploadComplete,
-      onUploadCompleteAll: PhotosAdd.onUploadCompleteAll,
-
-      clear: 1,
-      type: 'photo',
-      max_attempts: 3,
-      server: 9278,
-      error: 1,
-      error_hash: '623ca4a1fd9174c7299176f3247da1ca',
-      dropbox: bodyNode,
-      dragEl: bodyNode,
-      visibleDropbox: true,
-      //photoBox: ge('photos_add_box'),
-      multiple: true,
-      multi_progress: true,
-      multi_sequence: true,
-      max_files: 500,
-      file_match: '\.(gif|jpg|png|bmp|jpeg)$',
-      flash_lite: 1
-    }
-
-    cur.uplId = Upload.init('lite_photo_uploader', cur.flashLiteUrl, cur.flashLiteVars, cur.flashLiteOptions);
-  };
-
-  cur.flash_lite = true;
-  cur.initFlashLite();
-
-  cur.flashAddBar = '<div class="photos_add_bar_cont">\
-    <div id="photos_add_bar">\
-      <div class="photos_add_bar_shadow"></div>\
-      <div class="photos_add_bar_wrap photos_add_area_drop"><div>\
-        Отпустите, чтобы начать загрузку.\
-      </div></div>\
-      <div id="photos_add_bar_progress" class="photos_add_bar_wrap">\
-        <div id="photos_add_p_line"><div id="photos_add_p_inner"></div></div>\
-        <div id="photos_add_p_text"></div>\
-      </div>\
-      <div id="photos_add_bar_form" class="photos_add_bar_wrap">\
-        <div id="photos_add_select_button" class="button_blue" style="position: relative;"><button id="photos_flash_add_button">Загрузить ещё фотографии</button></div>\
-        <div id="photos_add_more_info">Вы можете выбрать <b>несколько</b> фотографий.</div>\
-        <div id="photos_movedd_container" class="fl_l"><input id="photos_move_dd" name="photos_move_dd" type="hidden" /><span id="privacy_edit_photos_move"></span></div>\
-      </div>\
-    </div>\
-  </div>';
-  cur.flashAddWrap = '<div id="photos_add_wrap" class="photos_add_wrap">\
-    <div id="photos_add_cont" class="photos_add_cont">\
-      <div id="photos_add_error"></div>\
-        <div id="photos_add_list"></div>\
-        <div class="photos_go_to_album">\
-          <a href="/album-283_97127417"><div class="button_blue"><button>Перейти к альбому</button></div></a>\
-        </div>\
-      </div>\
-    </div>\
-  </div>';
-  cur.flashAddSummary = 'Гитаристы в окружении своих палок<span class="divide">|</span><span><a href="/album-283_97127417" onclick="return nav.go(this, event)">Вернуться к альбому</a></span>';
-
-  cur.photoData = {};
-
-  var albums = [[0," - Альбом фотографии - "],[102431933,"Doubleneck мания"],[68975168,"mini )"],[110107322,"Афиши и Анонсы концерто.."],[34561945,"Гитаристки и девушки с .."],[97127417,"Гитаристы в окружении с.."],[92111649,"Конкурс на логотип =)"],[106144999,"Куплю , ищу."],[1295,"Мир Гитар #1"],[40264779,"Мир Гитар #2"],[139752468,"Мир гитар №3"],[57868510,"Мы c гитарами&#33;&#33;&#33;"],[136453301,"Продажа. Открытая цена №3"],[92418231,"гитары с одним датчиком"]];
-  extend(cur, {
-    album: '-283_97127417',
-    albums: albums,
-    onPrivacyChanged: photos.privacy
-  });
-
-  if (albums.length < 15) {
-    cur.privacyPhotoMove = true;
-    var albumsArr = {};
-    for (var i in albums) {
-      if (albums[i][0] && albums[i][0] != "0") {
-        albumsArr[albums[i][0]] = albums[i][1];
-      }
-    }
-    cur.privacy = {
-      'photos_move': [97127417, 1],
-      'photos_move_types': albumsArr
-    };
-  }
-
-  cur.lang = extend(cur.lang || {}, {
-    photos_privacy_description: 'Описание'
-  });
-}extend(cur, {
-  offset: 40,
-  count: 65,
-  moreFrom: 'album-283_97127417',
-  moreOpts: undefined
-});
-
-cur.lang = extend(cur.lang || {}, {
-  photos_deleting_album: 'Удаление альбома',
-  photos_sure_del_album: 'Вы уверены, что хотите удалить альбом?'
-});
-
-if (vk.version) {
-  addEvent(window, 'load', photos.initScroll);
-} else {
-  photos.initScroll();
-}
-var preload = [80,"<div class=\"photo_row\" id=\"photo_row-283_166550563\"><a href=\"\/photo-283_166550563\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166550563', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4556.vkontakte.ru\/u249650\/97127417\/m_1a3e636d.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_166907103\"><a href=\"\/photo-283_166907103\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166907103', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4556.vkontakte.ru\/u249650\/97127417\/m_58719d86.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_166977904\"><a href=\"\/photo-283_166977904\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_166977904', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4556.vkontakte.ru\/u249650\/97127417\/m_a48bb433.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_168050269\"><a href=\"\/photo-283_168050269\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_168050269', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4868.vkontakte.ru\/u15172292\/97127417\/m_4139ae7c.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_168106069\"><a href=\"\/photo-283_168106069\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_168106069', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4868.vkontakte.ru\/u15172292\/97127417\/m_a3589454.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_168588599\"><a href=\"\/photo-283_168588599\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_168588599', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs10341.vkontakte.ru\/u37436714\/97127417\/m_2e9e0db0.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_170030479\"><a href=\"\/photo-283_170030479\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_170030479', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs409.vkontakte.ru\/u3009638\/97127417\/m_a2e38527.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_172081514\"><a href=\"\/photo-283_172081514\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_172081514', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4134.vkontakte.ru\/u39705956\/97127417\/m_fe4c9f40.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_174079158\"><a href=\"\/photo-283_174079158\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_174079158', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs406.vkontakte.ru\/u39705956\/97127417\/m_5d12ba47.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_176180225\"><a href=\"\/photo-283_176180225\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_176180225', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9371.vkontakte.ru\/u39705956\/97127417\/m_5d2fc3fb.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_185144201\"><a href=\"\/photo-283_185144201\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185144201', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs10376.vkontakte.ru\/u249650\/97127417\/m_88921024.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_185144893\"><a href=\"\/photo-283_185144893\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185144893', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs709.vkontakte.ru\/u81705079\/97127417\/m_68cdeb32.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_185145358\"><a href=\"\/photo-283_185145358\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185145358', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs709.vkontakte.ru\/u81705079\/97127417\/m_948c30d7.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_185145359\"><a href=\"\/photo-283_185145359\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_185145359', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs709.vkontakte.ru\/u81705079\/97127417\/m_69697159.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_190168265\"><a href=\"\/photo-283_190168265\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_190168265', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs10644.vkontakte.ru\/u249650\/97127417\/m_9375bb10.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_216405674\"><a href=\"\/photo-283_216405674\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_216405674', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9979.vkontakte.ru\/u12312987\/97127417\/m_fadc6cf6.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_225240448\"><a href=\"\/photo-283_225240448\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_225240448', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs10854.vkontakte.ru\/u249650\/97127417\/m_4dd609fd.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_229216297\"><a href=\"\/photo-283_229216297\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_229216297', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs11133.vkontakte.ru\/u249650\/97127417\/m_c3bd40e9.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_229405295\"><a href=\"\/photo-283_229405295\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_229405295', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs11133.vkontakte.ru\/u249650\/97127417\/m_5b770da9.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_259343789\"><a href=\"\/photo-283_259343789\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_259343789', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs10958.vkontakte.ru\/u249650\/97127417\/m_1801a8d8.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_264913672\"><a href=\"\/photo-283_264913672\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_264913672', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs5284.vkontakte.ru\/u73680281\/97127417\/m_e5d61e73.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_264945526\"><a href=\"\/photo-283_264945526\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_264945526', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9699.vkontakte.ru\/u286956\/97127417\/m_888cb919.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_265740000\"><a href=\"\/photo-283_265740000\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_265740000', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs5826.vkontakte.ru\/u249650\/97127417\/m_04daaf72.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_266126121\"><a href=\"\/photo-283_266126121\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_266126121', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs10979.vkontakte.ru\/u249650\/97127417\/m_bc39077b.jpg\" \/>\n<\/a><\/div><div class=\"photo_row\" id=\"photo_row-283_267976577\"><a href=\"\/photo-283_267976577\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('-283_267976577', 'album-283_97127417', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs4172.vkontakte.ru\/u249650\/97127417\/m_5f3b330a.jpg\" \/>\n<\/a><\/div>"];
-
-ajax.preload(cur.moreFrom, extend({offset: cur.offset, part: 1}, cur.moreOpts || {}), preload);
-
-photos.registerDragZone({
-  on: function() {
-    addClass(ge('photos_upload_area'), 'photos_upload_area_enter');
-  },
-  un: function() {
-    removeClass(ge('photos_upload_area'), 'photos_upload_area_enter');
-  },
-  drop: function(files) {
-    photos.onUploadSelect(files);
-  }
-});
-handlePageParams({"id":3454157,"leftblocks":"","leftads":"<div id=\"ad_hide_mask_ad_0\" class=\"ad_hide_mask_new\" style=\"display: none; \"><div class=\"ad_info_new\">Данное объявление больше не будет Вам показываться.<\/div><\/div>\n<a href=\"\/away.php?to=QxscBkBxC1VwdAlWXXFWBhFBXUBJdgpDTgUxQ0hVb1VCfAAnX2ZtBjspCyAiCw0LXy5XRXJfThVFE0FXAidjNFwaA10OG2kQC2RucyoGVSsJagsaCgVWV2o8WEoeFl53VxVnJQAiKmMxeGMTPAdhAQV1YQsPDnpJAxcMVV8hVToYMF4dMA4\/Ok0ECHsAegI3OAJdfj4UC094EgoJJiYjdglUUyseM2l\/NAYIQ0wHHXE6Knt3MW1rZjEXdBd3MWouJy8pVRQPCDpBDH5QAgkWHgc-\" class=\"ad_box_new\" style=\"\" id=\"ad_box_ad_0\" onmouseover=\"leftBlockOver('_ad_0')\" onmouseout=\"leftBlockOut('_ad_0')\" target=\"_blank\">\n<div id=\"left_hide_ad_0\" class=\"left_hide_new\" onmouseover=\"leftBlockOver(this)\" onmouseout=\"leftBlockOut(this)\" onclick=\"cancelEvent(event); return leftAdBlockHide('_ad_0', '\/away.php?to=QRscBkBxC1VwdAlWXXFWBhFBCBFFdQccT1ZiFRkObAEUKQkiX2ZtBjspCyAiCw0LXy5XRXJfThVFE0FXAidjNFwaA10OG2kQC2RucyoGVSsJagsaCgVWV2o8WEoeFl53VxVnJQAiKmMxeGMTPAdhAQV1YQsPDnpJAxcMVV8hVToYMF4dMA4\/Ok0ECHsAegI3OAJdfj4UC094EgoJJiYjdglUUyseM2l\/NAYIQ0wHHXE6Knt3MW1rZjEXdBd3MWouJy8pVRQPCDpBDH5QAgkWHgc-');\"><\/div>\n<div id=\"ad_title\" class=\"ad_title_new\">Лучшая стратегия 2011&#33;<\/div>\n<div class=\"ad_domain_new\">Приложение<\/div>\n<span>\n  <div id=\"pr_image\" style=\"position: relative;\">\n    <img src=\"http:\/\/cs10271.vkontakte.ru\/u42137217\/75628422\/s_5f56606f59x:001.jpg\" style=\"\" \/>\n    <div id=\"ads_play_btn\" style=\"display: none;\"><\/div>\n  <\/div>\n<\/span>\n<div id=\"ad_desc\" class=\"ad_desc_new\" style=\"\">-&quot; Чуть школу не проспал, играл с друзьями всю ночь&#33;&quot;<\/div>\n<\/a>\n<div id=\"ad_hide_mask_ad_1\" class=\"ad_hide_mask_new\" style=\"display: none; \"><div class=\"ad_info_new\">Данное объявление больше не будет Вам показываться.<\/div><div class=\"ad_complain_new\">\n  <span class=\"ad_complain_info_new\">Если Вы считаете содержание данного объявления оскорбительным,<\/span>\n  <span class=\"ad_complain_link_new\" onclick=\"reportAd(1476553, this); return false;\">сообщите нам.<\/span>\n<\/div><\/div>\n<a href=\"\/away.php?to=QxscBkBxC1VwdAlXXnRTBhVBBkJAdlYdSlU2Q0hebVJCKFAlX1JgZzFxUAYnElpRJxJSR1YJCQBGC0FBLVU0KUklb3wVIAArAG5KVBobCTYaLlkTOG0wAmEDS0ccMXR8MSsTAB80FkcNIgI7AkJWZhs5fQA6LkIsLQteYGVUbgVJDkRHKxJnE0RUPEMkYnckC0Z8cicjDAMibHQZXxAgemI8URwWFGoVOQ0eGFgqGHAVBmcKJ0BqRzsWSSYDMQwTLmgWZBY5ZxQELAJ9D1kHAgc-\" class=\"ad_box_new\" style=\"\" id=\"ad_box_ad_1\" onmouseover=\"leftBlockOver('_ad_1')\" onmouseout=\"leftBlockOut('_ad_1')\" target=\"_blank\">\n<div id=\"left_hide_ad_1\" class=\"left_hide_new\" onmouseover=\"leftBlockOver(this)\" onmouseout=\"leftBlockOut(this)\" onclick=\"cancelEvent(event); return leftAdBlockHide('_ad_1', '\/away.php?to=QRscBkBxC1VwdAlXXnRTBhVBC0dCIlJDS1lkQRINPlJAfANyX1JgZzFxUAYnElpRJxJSR1YJCQBGC0FBLVU0KUklb3wVIAArAG5KVBobCTYaLlkTOG0wAmEDS0ccMXR8MSsTAB80FkcNIgI7AkJWZhs5fQA6LkIsLQteYGVUbgVJDkRHKxJnE0RUPEMkYnckC0Z8cicjDAMibHQZXxAgemI8URwWFGoVOQ0eGFgqGHAVBmcKJ0BqRzsWSSYDMQwTLmgWZBY5ZxQELAJ9D1kHAgc-');\"><\/div>\n<div id=\"ad_title\" class=\"ad_title_new\">Коллекционная модель<\/div>\n<div class=\"ad_domain_new\">rozetka.ua<\/div>\n<span>\n  <div id=\"pr_image\" style=\"position: relative;\">\n    <img src=\"http:\/\/cs9649.vkontakte.ru\/u137834942\/75628422\/s_e5c1093fddx:001.jpg\" style=\"\" \/>\n    <div id=\"ads_play_btn\" style=\"display: none;\"><\/div>\n  <\/div>\n<\/span>\n<div id=\"ad_desc\" class=\"ad_desc_new\" style=\"\">Точная копия автомобиля. Цена: 113 грн.<\/div>\n<\/a>\n<div class=\"ad_help_link\" id=\"ad_help_link\">\n  <a href=\"\/ads.php?section=target\">Что это?<\/a>\n<\/div>","loc":"album-283_97127417"});showBackLink('/club283', 'Гитаромания');addEvent(window, 'load', function () {Notifier.init({"queue_id":"events_queue3454157","timestamp":"138167994","key":"_PO1SiRfDQaGSuIAcK36PN_O9modAQQPDhYGbf903W3YZd1pJIoJjprZ","uid":3454157,"version":6,"flash_url":"\/swf\/queue_transport.swf","debug":false,"instance_id":"NDg5MTIy","server_url":"http:\/\/q45.queue.vkontakte.ru\/im157","frame_path":"http:\/\/q45.queue.vkontakte.ru\/q_frame.php?4","frame_url":"im157","refresh_url":"http:\/\/vkontakte.ru\/notifier.php","fc":{"version":16,"state":{"clist":{"min":true,"x":0.0115761353517,"y":0.344036697248},"tabs":[],"version":16}}});});addEvent(document, 'click', onDocumentClick);
-    }
-  </script>
-
-
-</body></html>
 <?php
-    echo '</p>';
+    echo '</div><br><br>';
     echo '<div id="ajax-container"></div>';
     echo '</div>';
 }
