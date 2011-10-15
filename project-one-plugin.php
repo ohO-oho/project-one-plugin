@@ -161,9 +161,7 @@ function my_plugin_home_javascript() {
 function my_plugin_serverside_javascript() {
 ?>
     <script type="text/javascript">
-        alert('Fu!');
         jQuery(document).ready(function($) {
-            alert('Beeee!!!');
             var data = {
                 action: 'serverside_action'
             };
@@ -173,9 +171,26 @@ function my_plugin_serverside_javascript() {
                 $("#listIdFormLoader").fadeIn();
                 $("#go-btn").val('Вжжж! Ждём...');
                 jQuery.post(ajaxurl, data, function(json) {
+                    try{
+                        var response = jQuery.parseJSON(json);
+                    } catch(e) {
+                        $("#go-btn").val('JSON не парсится :(');
+                        $("#listIdFormLoader").fadeOut();
+                        alert('Parsing error: ' + e.name)
+                        alert(json);
+                    }
+
                     $("#go-btn").val('Ура! Сервер справился!');
                     $("#listIdFormLoader").fadeOut();
-                    alert('Wooo!!');
+                    $("#ajax-container").empty();
+                    $("#ajax-container").append('<table class="widefat"></table>');
+                    $("#ajax-container table").append('<thead><tr><th>#</th><th>Id</th><th>x_src</th></tr></thead>');
+                    $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Id</th><th>x_src</th></tr></tfoot>');
+                    $("#ajax-container table").append('<tbody></tbody>');
+
+                    for (var i = 0; i < response.length; i++) {
+                        $("#ajax-container table tbody").append('<tr><th>'+(i+parseInt($("#offset").val())+1)+'</th><th>'+response[i].id+'</th><th>'+response[i].x_src+'</th></tr>');
+                    }
                 });
                 return false;
             });
@@ -232,15 +247,21 @@ function my_plugin_serverside_action_callback() {
     preg_match_all('/\<![a-z]*\>(.*?)\<!\>/', $absinthe, $matches);
 
     if (!empty($matches[1][0])) {
-        $jsonResponse = array('listId' => $matches[1][2],
-                              'listSize' => $matches[1][3],
-                              'listData' => cp1251_to_utf8($matches[1][5]));
+        $test = preg_replace('/\"comments\":(.*?)\",\"date\"/', '"comments":0,"date"', $matches[1][5]);
+        $listData = json_decode(cp1251_to_utf8($test));
+        $photos = array();
+        foreach ($listData as $key => $photo) {
+            $photos[$key]['id']    = $photo->id;
+            $photos[$key]['x_src'] = $photo->x_src;
+            $photos[$key]['y_src'] = $photo->y_src;
+            $photos[$key]['z_src'] = $photo->z_src;
+            $photos[$key]['date']  = $photo->date;
+        }
     } else {
-        $jsonResponse = array('listId' => 0,
-                              'listData' => 'We`ve got some troubles');
+        $jsonResponse = 'We`ve got some troubles';
     }
 
-    echo json_encode($jsonResponse);
+    echo json_encode($photos);
 	die();
 }
 
