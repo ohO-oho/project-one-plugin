@@ -20,11 +20,56 @@ License: GPL2
 //al: 1
 //offset: 40
 //part: 1
+//font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
 
 add_action('admin_head', 'my_plugin_css');
 add_action('admin_menu', 'my_plugin_menu');
 add_action('wp_ajax_my_action', 'my_plugin_action_callback');
 add_action('wp_ajax_serverside_action', 'my_plugin_serverside_action_callback');
+
+function win2utf($s) {
+   for($i=0, $m=strlen($s); $i<$m; $i++)    {
+       $c=ord($s[$i]);
+       if ($c<=127) {$t.=chr($c); continue; }
+       if ($c>=192 && $c<=207)    {$t.=chr(208).chr($c-48); continue; }
+       if ($c>=208 && $c<=239) {$t.=chr(208).chr($c-48); continue; }
+       if ($c>=240 && $c<=255) {$t.=chr(209).chr($c-112); continue; }
+       if ($c==184) { $t.=chr(209).chr(209); continue; };
+            if ($c==168) { $t.=chr(208).chr(129);  continue; };
+            if ($c==184) { $t.=chr(209).chr(145); continue; }; #ё
+            if ($c==168) { $t.=chr(208).chr(129); continue; }; #Ё
+            if ($c==179) { $t.=chr(209).chr(150); continue; }; #і
+            if ($c==178) { $t.=chr(208).chr(134); continue; }; #І
+            if ($c==191) { $t.=chr(209).chr(151); continue; }; #ї
+            if ($c==175) { $t.=chr(208).chr(135); continue; }; #ї
+            if ($c==186) { $t.=chr(209).chr(148); continue; }; #є
+            if ($c==170) { $t.=chr(208).chr(132); continue; }; #Є
+            if ($c==180) { $t.=chr(210).chr(145); continue; }; #ґ
+            if ($c==165) { $t.=chr(210).chr(144); continue; }; #Ґ
+            if ($c==184) { $t.=chr(209).chr(145); continue; }; #Ґ
+   }
+   return $t;
+}
+
+function unicod($str) {
+    $conv=array();
+    for($x=128;$x<=143;$x++) $conv[$x+112]=chr(209).chr($x);
+    for($x=144;$x<=191;$x++) $conv[$x+48]=chr(208).chr($x);
+    $conv[184]=chr(209).chr(145); #ё
+    $conv[168]=chr(208).chr(129); #Ё
+    $conv[179]=chr(209).chr(150); #і
+    $conv[178]=chr(208).chr(134); #І
+    $conv[191]=chr(209).chr(151); #ї
+    $conv[175]=chr(208).chr(135); #ї
+    $conv[186]=chr(209).chr(148); #є
+    $conv[170]=chr(208).chr(132); #Є
+    $conv[180]=chr(210).chr(145); #ґ
+    $conv[165]=chr(210).chr(144); #Ґ
+    $conv[184]=chr(209).chr(145); #Ґ
+    $ar=str_split($str);
+    foreach($ar as $b) if(isset($conv[ord($b)])) $nstr.=$conv[ord($b)]; else $nstr.=$b;
+    return $nstr;
+}
 
 function cp1251_to_utf8 ($txt)  {
     $in_arr = array (
@@ -90,6 +135,9 @@ function my_plugin_css() {
         #ajax-container {
             margin-top: 10px;
         }
+        #pagination {
+            float: right;
+        }
         #listIdForm label {
             padding-right: 10px;
         }
@@ -98,6 +146,9 @@ function my_plugin_css() {
             height: 23px;
             background: white url(images/loading.gif) no-repeat center;
             display: none;
+        }
+        th {
+            overflow: hidden;
         }
     </style>
 <?php
@@ -167,7 +218,7 @@ function my_plugin_serverside_javascript() {
             };
             $("#listIdForm").submit(function() {
                 data.listId = $("#listId").val();
-                data.offset = $("#offset").val();
+                data.page   = $("#page").val();
                 $("#listIdFormLoader").fadeIn();
                 $("#go-btn").val('Вжжж! Ждём...');
                 jQuery.post(ajaxurl, data, function(json) {
@@ -176,20 +227,30 @@ function my_plugin_serverside_javascript() {
                     } catch(e) {
                         $("#go-btn").val('JSON не парсится :(');
                         $("#listIdFormLoader").fadeOut();
-                        alert('Parsing error: ' + e.name)
+                        $("#ajax-container").empty();
+                        alert('Parsing error: ' + e.name);
                         alert(json);
+                        $("#ajax-container").html('<pre style="color: #ff6347;">' + 'Parsing error: ' + e.name + ' (' + response['debugData'] + ')</pre>');
                     }
 
-                    $("#go-btn").val('Ура! Сервер справился!');
-                    $("#listIdFormLoader").fadeOut();
-                    $("#ajax-container").empty();
-                    $("#ajax-container").append('<table class="widefat"></table>');
-                    $("#ajax-container table").append('<thead><tr><th>#</th><th>Id</th><th>x_src</th></tr></thead>');
-                    $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Id</th><th>x_src</th></tr></tfoot>');
-                    $("#ajax-container table").append('<tbody></tbody>');
-
-                    for (var i = 0; i < response.length; i++) {
-                        $("#ajax-container table tbody").append('<tr><th>'+(i+parseInt($("#offset").val())+1)+'</th><th>'+response[i].id+'</th><th>'+response[i].x_src+'</th></tr>');
+                    if (response['listSize'] == 0) {
+                        $("#go-btn").val('Хм, сам траблез :/');
+                        $("#listIdFormLoader").fadeOut();
+                        $("#ajax-container").empty();
+                        $("#ajax-container").html('<pre style="color: #ff6347;">' + response['listData'] + ' (' + response['debugData'] + ')</pre>');
+                    } else {
+                        $("#go-btn").val(' Ура! Сервер справился за ' + response['debugData'] + ' времени ');
+                        $("#listIdFormLoader").fadeOut();
+                        $("#listSize").html(response['listSize'] + ' записей, страниц: ' + response['pages']);
+                        $("#page").removeAttr('disabled');
+                        $("#ajax-container").empty();
+                        $("#ajax-container").append('<table class="widefat"></table>');
+                        $("#ajax-container table").append('<thead><tr><th>#</th><th>Description</th><th>x_src</th></tr></thead>');
+                        $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Description</th><th>x_src</th></tr></tfoot>');
+                        $("#ajax-container table").append('<tbody></tbody>');
+                        for (var i = 0; i < response['listData'].length; i++) {
+                            $("#ajax-container table tbody").append('<tr><th>'+(i+parseInt(response['offset'])+1)+'</th><th>'+response['listData'][i].desc+'</th><th>'+response['listData'][i].x_src+'</th></tr>');
+                        }
                     }
                 });
                 return false;
@@ -207,7 +268,7 @@ function my_plugin_options() {
 	echo '<p style="float: right;">Ещё чуть-чуть и прямо в рай, и жизнь удалась.</p>';
 	echo '<div>';
 ?>
-        <form id="listIdForm">
+        <form id="listIdForm" action="">
             <ul>
                 <li><label for="listId">Идентификатор альбома<span>*</span>: </label>
                 <input id="listId" size="30" name="listId" value="album-2281699_140017490" /></li>
@@ -242,42 +303,90 @@ function my_plugin_action_callback() {
 }
 
 function my_plugin_serverside_action_callback() {
-    $absinthe = absinthe($_POST['listId'], $_POST['offset']);
+    $mtime = microtime();
+    $mtime = explode(" ",$mtime);
+    $mtime = $mtime[1] + $mtime[0];
+    $starttime = $mtime;
 
+    $page = (int) $_POST['page'];
+    $offset = ($page - 1) * 10;
+    $absinthe = absinthe($_POST['listId'], $offset);
     preg_match_all('/\<![a-z]*\>(.*?)\<!\>/', $absinthe, $matches);
-
-    if (!empty($matches[1][0])) {
-        $test = preg_replace('/\"comments\":(.*?)\",\"date\"/', '"comments":0,"date"', $matches[1][5]);
-        $listData = json_decode(cp1251_to_utf8($test));
-        $photos = array();
-        foreach ($listData as $key => $photo) {
-            $photos[$key]['id']    = $photo->id;
-            $photos[$key]['x_src'] = $photo->x_src;
-            $photos[$key]['y_src'] = $photo->y_src;
-            $photos[$key]['z_src'] = $photo->z_src;
-            $photos[$key]['date']  = $photo->date;
-        }
-    } else {
-        $jsonResponse = 'We`ve got some troubles';
+    $listSize = (int) $matches[1][3];
+    $pages = ceil($listSize / 10);
+    if ($offset >= $listSize) {
+        $offset = ($pages - 1) * 10;
+        $absinthe = absinthe($_POST['listId'], $offset);
+        preg_match_all('/\<![a-z]*\>(.*?)\<!\>/', $absinthe, $matches);
+        $page = $pages;
+    }
+    $pageSize = $listSize - $offset;
+    if ($pageSize > 10) {
+        $pageSize = 10;
     }
 
-    echo json_encode($photos);
+    if (!empty($matches[1][0])) {
+        //print_r($matches[1][5]);
+        $listData = preg_replace('/\"comments\":(.*?)\",\"date\"/', '"comments":0,"date"', win2utf($matches[1][5]));
+        $listData = json_decode($listData);
+        print_r($listData[2]->x_src);
+        $photos = array();
+        for ($key = 0; $key < $pageSize; $key++) {
+            $photos[$key]['id']    = $listData[$key]->id;
+            $photos[$key]['desc']  = $listData[$key]->desc;
+            $photos[$key]['x_src'] = $listData[$key]->x_src;
+            $photos[$key]['y_src'] = $listData[$key]->y_src;
+            $photos[$key]['z_src'] = $listData[$key]->z_src;
+            $photos[$key]['date']  = $listData[$key]->date;
+        }
+//        foreach ($listData as $key => $photo) {
+//            $photos[$key]['id']    = $photo->id;
+//            $photos[$key]['desc']  = $photo->desc;
+//            $photos[$key]['x_src'] = $photo->x_src;
+//            $photos[$key]['y_src'] = $photo->y_src;
+//            $photos[$key]['z_src'] = $photo->z_src;
+//            $photos[$key]['date']  = $photo->date;
+//        }
+        $mtime = microtime();
+        $mtime = explode(" ",$mtime);
+        $mtime = $mtime[1] + $mtime[0];
+        $endtime = $mtime;
+        $execTime = ($endtime - $starttime);
+        $jsonResponse = array('pages' => $pages,
+                              'offset' => $offset,
+                              'listSize' => $listSize,
+                              'listData' => $photos,
+                              'current_page' => $page,
+                              'debugData' => $execTime);
+    } else {
+        $mtime = microtime();
+        $mtime = explode(" ",$mtime);
+        $mtime = $mtime[1] + $mtime[0];
+        $endtime = $mtime;
+        $execTime = ($endtime - $starttime);
+        $jsonResponse = array('listSize' => 0,
+                              'listData' => 'We`ve got some troubles ',
+                              'debugData' => $execTime);
+    }
+    header("Content-type: text/html; charset=utf-8");
+    echo json_encode($jsonResponse);
 	die();
 }
 
 function absinthe($listId, $offset) {
     $postvars = array(
       "act" => "show",
-      "al"  => "1",
+      "al" => "1",
       "list" => $listId,
       "offset" => $offset,
       "direction" => null
     );
 
     $postdata = "";
-    foreach ( $postvars as $key => $value )
+    foreach ($postvars as $key => $value) {
         $postdata .= "&".rawurlencode($key)."=".rawurlencode($value);
-    $postdata = substr( $postdata, 1 );
+    }
+    $postdata = substr($postdata, 1);
 
     $ch = curl_init();
     curl_setopt ($ch, CURLOPT_URL, "http://vk.com/al_photos.php");
@@ -293,27 +402,35 @@ function absinthe($listId, $offset) {
 }
 
 function my_plugin_serverside() {
-
-if (!current_user_can('manage_options'))  {
+    if (!current_user_can('manage_options'))  {
 		wp_die( __('You do not have sufficient permissions to access this page.') );
 	}
 
     echo '<div class="wrap">';
 	echo '<h2>Server-side parsing</h2>';
-	echo '<p>';
+	echo '<div>';
 ?>
-        <form id="listIdForm">
+        <form id="listIdForm" action="">
             <ul>
                 <li><label for="listId">Идентификатор альбома<span>*</span>: </label>
                 <input id="listId" size="30" name="listId" value="album-2281699_140017490" /></li>
-                <li><label for="offset">Смещение: </label>
-                <input id="offset" disabled="disabled" name="offset" value="0" /> (всего <span id="listSize">хз</span> фото)</li>
-                <li><div><input type="submit" value="Го!" id="go-btn" class="button-secondary" style="float: left; width: 150px;" />
+                <li><label for="page">Страница: </label>
+                <input id="page" disabled="disabled" name="page" value="1" /> (всего <span id="listSize">хз</span>)</li>
+                <li><div><input type="submit" value="Го!" id="go-btn" class="button-secondary" style="float: left; min-width: 150px;" />
                 <div class="ajax-loading-gif" id="listIdFormLoader" style="float: left; padding-left: 3px"></div></div></li>
             </ul>
         </form>
 <?php
-    echo '</p>';
+    echo '</div><br><br>';
+//    echo '<div id="pagination" class="tablenav-pages">1<a>2</a><a>3</a></div>';
+?>
+<!--        <div class="tablenav-pages"><span class="displaying-num">1 113 элементов</span>-->
+<!--        <span class="pagination-links"><a class="first-page disabled" title="Перейти на первую страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search">«</a>-->
+<!--        <a class="prev-page disabled" title="Перейти на предыдущую страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search&amp;paged=1">‹</a>-->
+<!--        <span class="paging-input"><input class="current-page" title="Текущая страница" type="text" name="paged" value="1" size="2"> из <span class="total-pages">38</span></span>-->
+<!--        <a class="next-page" title="Перейти на следующую страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search&amp;paged=2">›</a>-->
+<!--        <a class="last-page" title="Перейти на последнюю страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search&amp;paged=38">»</a></span></div>-->
+<?php
     echo '<div id="ajax-container"></div>';
     echo '</div>';
 }
