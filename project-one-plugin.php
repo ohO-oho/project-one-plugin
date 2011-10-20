@@ -228,9 +228,11 @@ function my_plugin_serverside_javascript() {
                         $("#go-btn").val('JSON не парсится :(');
                         $("#listIdFormLoader").fadeOut();
                         $("#ajax-container").empty();
+                        $("#page").removeAttr('disabled');
                         alert('Parsing error: ' + e.name);
                         alert(json);
-                        $("#ajax-container").html('<pre style="color: #ff6347;">' + 'Parsing error: ' + e.name + ' (' + response['debugData'] + ')</pre>');
+//                        $("#ajax-container").html('<pre style="color: #ff6347;">' + 'Parsing error: ' + e.name + ' (' + response['debugData'] + ')</pre>');
+                        $("#ajax-container").html('<pre style="color: #ff6347;">' + json + ')</pre>');
                     }
 
                     if (response['listSize'] == 0) {
@@ -314,9 +316,10 @@ function my_plugin_serverside_action_callback() {
     preg_match_all('/\<![a-z]*\>(.*?)\<!\>/', $absinthe, $matches);
     $listSize = (int) $matches[1][3];
     $pages = ceil($listSize / 10);
-    if ($offset >= $listSize) {
+    if ($offset > ($listSize - 10)) {
         $offset = ($pages - 1) * 10;
         $absinthe = absinthe($_POST['listId'], $offset);
+        $matches = null;
         preg_match_all('/\<![a-z]*\>(.*?)\<!\>/', $absinthe, $matches);
         $page = $pages;
     }
@@ -326,10 +329,14 @@ function my_plugin_serverside_action_callback() {
     }
 
     if (!empty($matches[1][0])) {
-        //print_r($matches[1][5]);
-        $listData = preg_replace('/\"comments\":(.*?)\",\"date\"/', '"comments":0,"date"', win2utf($matches[1][5]));
+        $listData = preg_replace('/\"comments\":(.*?)\",\"date\"/', '"comments":0,"date"', $matches[1][5]);
+        $listData = iconv("CP1251", "UTF-8//TRANSLIT", $listData);
+        $listData = str_replace('ё', 'е', $listData);
+        $listData = str_replace('й', 'и', $listData);
+        $listData = str_replace('i', 'и', $listData);
+        $listData = str_replace('ї', 'и', $listData);
         $listData = json_decode($listData);
-        print_r($listData[2]->x_src);
+
         $photos = array();
         for ($key = 0; $key < $pageSize; $key++) {
             $photos[$key]['id']    = $listData[$key]->id;
@@ -339,21 +346,16 @@ function my_plugin_serverside_action_callback() {
             $photos[$key]['z_src'] = $listData[$key]->z_src;
             $photos[$key]['date']  = $listData[$key]->date;
         }
-//        foreach ($listData as $key => $photo) {
-//            $photos[$key]['id']    = $photo->id;
-//            $photos[$key]['desc']  = $photo->desc;
-//            $photos[$key]['x_src'] = $photo->x_src;
-//            $photos[$key]['y_src'] = $photo->y_src;
-//            $photos[$key]['z_src'] = $photo->z_src;
-//            $photos[$key]['date']  = $photo->date;
-//        }
+
         $mtime = microtime();
         $mtime = explode(" ",$mtime);
         $mtime = $mtime[1] + $mtime[0];
         $endtime = $mtime;
         $execTime = ($endtime - $starttime);
+
         $jsonResponse = array('pages' => $pages,
                               'offset' => $offset,
+                              'offset_vk' => $matches[1][4],
                               'listSize' => $listSize,
                               'listData' => $photos,
                               'current_page' => $page,
