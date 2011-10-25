@@ -265,8 +265,8 @@ function my_plugin_serverside_javascript() {
                         $("#pagination").fadeIn();
                         $("#ajax-container").empty();
                         $("#ajax-container").append('<table class="widefat"></table>');
-                        $("#ajax-container table").append('<thead><tr><th>#</th><th>Description</th><th>Photo</th><th>Medium</th><th>Big</th></tr></thead>');
-                        $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Description</th><th>Photo</th><th>Medium</th><th>Big</th></tr></tfoot>');
+                        $("#ajax-container table").append('<thead><tr><th>#</th><th>Description</th><th>Photo</th><th>y_src</th><th>z_src</th></tr></thead>');
+                        $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Description</th><th>Photo</th><th>y_src</th><th>z_src</th></tr></tfoot>');
                         $("#ajax-container table").append('<tbody></tbody>');
                         var y_size, z_size;
                         for (var i = 0; i < response['listData'].length; i++) {
@@ -332,7 +332,6 @@ function my_plugin_serverside_javascript() {
                                     y_size = (response['listData'][i].y_src == null) ? "No" : "Yes";
                                     z_size = (response['listData'][i].z_src != null) ? "No" : "Yes";
                                     insertAfterId = (i == 0) ? insertAfterId : appendListFirstId - 11 + i;
-//                                    alert("FOR insertAfterId: " + "#list-row-" + insertAfterId);
                                     $("#list-row-"+insertAfterId).after('<tr id="list-row-'+(i+parseInt(response['offset_vk'])+1)
                                         +'"><th>'+(i+parseInt(response['offset'])+1)
                                         +'</th><th>'+response['listData'][i].desc
@@ -342,11 +341,12 @@ function my_plugin_serverside_javascript() {
                                         +'</th></tr>'
                                     );
                                 }
+                                $('html,body').animate({scrollTop: $("#list-row-"+(insertAfterId-8)).offset().top},'slow');
                             }
                         });
                     } else {
-                        alert(pagesCache.indexOf(parseInt($("#paged").val())));
-                        alert(pagesCache);
+                        var scrollToRowId = parseInt($("#paged").val()) * 10 - 9;
+                        $('html,body').animate({scrollTop: $("#list-row-"+scrollToRowId).offset().top},'slow');
                     }
                     return false;
                 }
