@@ -11,6 +11,13 @@ License: GPL2
 
 /*  Copyright 2011  ohO_oho  (email: paul.bs@gmail.com) */
 
+//TODO: add checkboxes to list
+//TODO: thumbnails
+//TODO: albums with 500+ photos (like /photos-491) and number_format() to $listSize
+//TODO: проверить, какие же всё-таки символы мешают декодированию json
+//TODO: допилить автоскролл при подгрузке страниц
+//TODO: прикрутить какой-нибуть grid-layout менеджер на jquery
+
 //album-283_92418231#offset=40&part=1
 //"/album-283_92418231#offset=40&part=1"
 //"/al_photos.php#act=show&list=album-283_92418231&photo=-283_127988404"
@@ -135,11 +142,8 @@ function my_plugin_css() {
         #ajax-container {
             margin-top: 10px;
         }
-        #pagination {
-            float: right;
-        }
         #listIdForm label {
-            padding-right: 10px;
+            /*padding-right: 10px;*/
         }
         .ajax-loading-gif {
             width: 16px;
@@ -147,6 +151,17 @@ function my_plugin_css() {
             background: white url(images/loading.gif) no-repeat center;
             display: none;
         }
+
+        #pagination {
+            float: right;
+            display: none;
+        }
+        #listSize {
+            /*font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;*/
+            font-style: italic;
+            color: #777;
+        }
+
         th {
             overflow: hidden;
         }
@@ -182,7 +197,7 @@ function my_plugin_home_javascript() {
                         $("#ajax-container").empty();
                         $("#ajax-container").html('<pre style="color: #ff6347;">' + response['listData'] + '</pre>');
                     } else {
-                        var listData = jQuery.parseJSON(response['listData']);
+                        //var listData = jQuery.parseJSON(response['listData']);
                         $("#go-btn").val('Ура! Пришло!');
                         $("#listIdFormLoader").fadeOut();
                         $("#listSize").html(response['listSize']);
@@ -200,7 +215,7 @@ function my_plugin_home_javascript() {
                         for (var i = 0; i < listSize; i++) {
                             $("#ajax-container table tbody").append('<tr><th>'+(i+parseInt($("#offset").val())+1)+'</th><th>'+listData[i].id+'</th><th>'+listData[i].x_src+'</th></tr>');
                         }
-                    };
+                    }
                 });
                 return false;
             });
@@ -216,10 +231,12 @@ function my_plugin_serverside_javascript() {
             var data = {
                 action: 'serverside_action'
             };
+            var pagesCache = [];
             $("#listIdForm").submit(function() {
+                $("#pagination").fadeOut('fast');
+                $("#listIdFormLoader").fadeIn('fast');
                 data.listId = $("#listId").val();
-                data.page   = $("#page").val();
-                $("#listIdFormLoader").fadeIn();
+                data.page   = 1;
                 $("#go-btn").val('Вжжж! Ждём...');
                 jQuery.post(ajaxurl, data, function(json) {
                     try{
@@ -228,35 +245,128 @@ function my_plugin_serverside_javascript() {
                         $("#go-btn").val('JSON не парсится :(');
                         $("#listIdFormLoader").fadeOut();
                         $("#ajax-container").empty();
-                        $("#page").removeAttr('disabled');
                         alert('Parsing error: ' + e.name);
                         alert(json);
-//                        $("#ajax-container").html('<pre style="color: #ff6347;">' + 'Parsing error: ' + e.name + ' (' + response['debugData'] + ')</pre>');
                         $("#ajax-container").html('<pre style="color: #ff6347;">' + json + ')</pre>');
                     }
 
-                    if (response['listSize'] == 0) {
+                    if (response['listSize'] == null) {
                         $("#go-btn").val('Хм, сам траблез :/');
                         $("#listIdFormLoader").fadeOut();
                         $("#ajax-container").empty();
                         $("#ajax-container").html('<pre style="color: #ff6347;">' + response['listData'] + ' (' + response['debugData'] + ')</pre>');
                     } else {
+                        pagesCache = [1];
+                        $("#paged").val(1);
+                        $("#listIdFormLoader").fadeOut('slow');
                         $("#go-btn").val(' Ура! Сервер справился за ' + response['debugData'] + ' времени ');
-                        $("#listIdFormLoader").fadeOut();
-                        $("#listSize").html(response['listSize'] + ' записей, страниц: ' + response['pages']);
-                        $("#page").removeAttr('disabled');
+                        $("#listSize").html(response['listSize'] + $.getNoun(response['listSize'], ' изображение', ' изображения', ' изображений'));
+                        $("#pagesTotal").html(response['pages']);
+                        $("#pagination").fadeIn();
                         $("#ajax-container").empty();
                         $("#ajax-container").append('<table class="widefat"></table>');
-                        $("#ajax-container table").append('<thead><tr><th>#</th><th>Description</th><th>x_src</th></tr></thead>');
-                        $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Description</th><th>x_src</th></tr></tfoot>');
+                        $("#ajax-container table").append('<thead><tr><th>#</th><th>Description</th><th>Photo</th><th>Medium</th><th>Big</th></tr></thead>');
+                        $("#ajax-container table").append('<tfoot><tr><th>#</th><th>Description</th><th>Photo</th><th>Medium</th><th>Big</th></tr></tfoot>');
                         $("#ajax-container table").append('<tbody></tbody>');
+                        var y_size, z_size;
                         for (var i = 0; i < response['listData'].length; i++) {
-                            $("#ajax-container table tbody").append('<tr><th>'+(i+parseInt(response['offset'])+1)+'</th><th>'+response['listData'][i].desc+'</th><th>'+response['listData'][i].x_src+'</th></tr>');
+                            y_size = (response['listData'][i].y_src == null) ? "No" : "Yes";
+                            z_size = (response['listData'][i].z_src == null) ? "No" : "Yes";
+                            $("#ajax-container table tbody").append('<tr id="list-row-'+(i+parseInt(response['offset'])+1)
+                                +'"><th>'+(i+parseInt(response['offset'])+1)
+                                +'</th><th>'+response['listData'][i].desc
+                                +'</th><th><img height="35" src="'+response['listData'][i].x_src+'" />'
+                                +'</th><th>'+y_size
+                                +'</th><th>'+z_size
+                                +'</th></tr>'
+                            );
                         }
                     }
                 });
                 return false;
             });
+
+            $("#paged").keydown(function(event) {
+                if (event.keyCode == '13') {
+                    if (pagesCache.indexOf(parseInt($("#paged").val())) < 0) {
+                        $("#listIdFormLoader").fadeIn('fast');
+                        data.listId = $("#listId").val();
+                        data.page   = $("#paged").val();
+                        $("#go-btn").val('Вжжж! Ждём...');
+                        jQuery.post(ajaxurl, data, function(json) {
+                            try {
+                                var response = jQuery.parseJSON(json);
+                            } catch(e) {
+                                $("#go-btn").val('JSON не парсится :(');
+                                $("#listIdFormLoader").fadeOut();
+                                $("#ajax-container").empty();
+                                alert('Parsing error: ' + e.name);
+                                alert(json);
+                                $("#ajax-container").html('<pre style="color: #ff6347;">' + json + ')</pre>');
+                            }
+
+                            if (response['listSize'] == null) {
+                                $("#go-btn").val('Хм, сам траблез :/');
+                                $("#listIdFormLoader").fadeOut();
+                                $("#ajax-container").empty();
+                                $("#ajax-container").html('<pre style="color: #ff6347;">' + response['listData'] + ' (' + response['debugData'] + ')</pre>');
+                            } else {
+                                pagesCache.push(parseInt($("#paged").val()));
+                                $("#listIdFormLoader").fadeOut('slow');
+                                $("#go-btn").val(' Ура! Сервер справился за ' + response['debugData'] + ' времени ');
+                                $("#listSize").html(response['listSize'] + $.getNoun(response['listSize'], ' изображение', ' изображения', ' изображений'));
+                                $("#pagesTotal").html(response['pages']);
+
+                                var insertAfterId = 10;
+                                pagesCache.sort(function(a,b){return b - a});
+                                for (var p = 0; p < pagesCache.length; p++) {
+                                    if (pagesCache[p] < parseInt($("#paged").val())) {
+                                        insertAfterId = pagesCache[p] * 10;
+                                        appendListFirstId = parseInt($("#paged").val()) * 10 + 1;
+                                        break;
+                                    }
+                                }
+
+                                var y_size, z_size;
+                                for (var i = 0; i < response['listData'].length; i++) {
+                                    y_size = (response['listData'][i].y_src == null) ? "No" : "Yes";
+                                    z_size = (response['listData'][i].z_src != null) ? "No" : "Yes";
+                                    insertAfterId = (i == 0) ? insertAfterId : appendListFirstId - 11 + i;
+//                                    alert("FOR insertAfterId: " + "#list-row-" + insertAfterId);
+                                    $("#list-row-"+insertAfterId).after('<tr id="list-row-'+(i+parseInt(response['offset_vk'])+1)
+                                        +'"><th>'+(i+parseInt(response['offset'])+1)
+                                        +'</th><th>'+response['listData'][i].desc
+                                        +'</th><th><img height="35" src="'+response['listData'][i].x_src+'" />'
+                                        +'</th><th>'+y_size
+                                        +'</th><th>'+z_size
+                                        +'</th></tr>'
+                                    );
+                                }
+                            }
+                        });
+                    } else {
+                        alert(pagesCache.indexOf(parseInt($("#paged").val())));
+                        alert(pagesCache);
+                    }
+                    return false;
+                }
+            });
+
+            $.getNoun = function(number, one, two, five) {
+                number = Math.abs(number);
+                number %= 100;
+                if (number >= 5 && number <= 20) {
+                    return five;
+                }
+                number %= 10;
+                if (number == 1) {
+                    return one;
+                }
+                if (number >= 2 && number <= 4) {
+                    return two;
+                }
+                return five;
+            };
         });
     </script>
 <?php
@@ -310,11 +420,11 @@ function my_plugin_serverside_action_callback() {
     $mtime = $mtime[1] + $mtime[0];
     $starttime = $mtime;
 
-    $page = (int) $_POST['page'];
+    $page = ((int) $_POST['page'] < 1) ? 1 : (int) $_POST['page'];
     $offset = ($page - 1) * 10;
     $absinthe = absinthe($_POST['listId'], $offset);
     preg_match_all('/\<![a-z]*\>(.*?)\<!\>/', $absinthe, $matches);
-    $listSize = (int) $matches[1][3];
+    $listSize = number_format((int) $matches[1][3], 0, '', ' ');
     $pages = ceil($listSize / 10);
     if ($offset > ($listSize - 10)) {
         $offset = ($pages - 1) * 10;
@@ -366,10 +476,12 @@ function my_plugin_serverside_action_callback() {
         $mtime = $mtime[1] + $mtime[0];
         $endtime = $mtime;
         $execTime = ($endtime - $starttime);
-        $jsonResponse = array('listSize' => 0,
-                              'listData' => 'We`ve got some troubles ',
+
+        $jsonResponse = array('listSize' => null,
+                              'listData' => 'We`ve got some troubles',
                               'debugData' => $execTime);
     }
+
     header("Content-type: text/html; charset=utf-8");
     echo json_encode($jsonResponse);
 	die();
@@ -410,28 +522,23 @@ function my_plugin_serverside() {
 
     echo '<div class="wrap">';
 	echo '<h2>Server-side parsing</h2>';
-	echo '<div>';
 ?>
+	<div>
         <form id="listIdForm" action="">
             <ul>
                 <li><label for="listId">Идентификатор альбома<span>*</span>: </label>
-                <input id="listId" size="30" name="listId" value="album-2281699_140017490" /></li>
-                <li><label for="page">Страница: </label>
-                <input id="page" disabled="disabled" name="page" value="1" /> (всего <span id="listSize">хз</span>)</li>
+                <input type="text" id="listId" size="30" name="listId" value="album-2281699_140017490" /></li>
                 <li><div><input type="submit" value="Го!" id="go-btn" class="button-secondary" style="float: left; min-width: 150px;" />
                 <div class="ajax-loading-gif" id="listIdFormLoader" style="float: left; padding-left: 3px"></div></div></li>
             </ul>
         </form>
-<?php
-    echo '</div><br><br>';
-//    echo '<div id="pagination" class="tablenav-pages">1<a>2</a><a>3</a></div>';
-?>
-<!--        <div class="tablenav-pages"><span class="displaying-num">1 113 элементов</span>-->
-<!--        <span class="pagination-links"><a class="first-page disabled" title="Перейти на первую страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search">«</a>-->
-<!--        <a class="prev-page disabled" title="Перейти на предыдущую страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search&amp;paged=1">‹</a>-->
-<!--        <span class="paging-input"><input class="current-page" title="Текущая страница" type="text" name="paged" value="1" size="2"> из <span class="total-pages">38</span></span>-->
-<!--        <a class="next-page" title="Перейти на следующую страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search&amp;paged=2">›</a>-->
-<!--        <a class="last-page" title="Перейти на последнюю страницу" href="http://wordpress/wp-admin/theme-install.php?tab=search&amp;paged=38">»</a></span></div>-->
+    </div>
+    <br><br>
+    <div id="pagination">
+        <span id="listSize"></span>, cтр.
+        <input id="paged" name="paged" value="1" size="1" type="text" /> из
+        <span id="pagesTotal"></span>
+    </div>
 <?php
     echo '<div id="ajax-container"></div>';
     echo '</div>';
